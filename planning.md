@@ -150,27 +150,56 @@ If this were deployed for real users and cost was not a constraint, I'd evaluate
 I'll be using ChatGPT as my assistant.
 
 **Chunking**
+
 Input: My Chunking Strategy section above.
 Expected Help: Explain if my chosen chunk size and overlap are reasonable for Reddit posts and course reviews.
 Verification: Compare the recommendations with retrieval results from my implementation.
 
 **Embedding & Vector Store**
+
 Input: My Retrieval Approach section.
 Expected Help: Explain how sentence-transformer embeddings and ChromaDB work together in a RAG pipeline and help troubleshoot setup issues.
 Verification: Confirm that the embeddings are generated and stored correctly.
 
 **Retrieval**
+
 Input: Retrieval results from test queries.
 Expected Help: Help analyze whether retrieved chunks are relevant and suggest adjustments to top-k if needed.
 Verification: Manually inspect retrieval quality on evaluation questions.
 
 **Generation**
+
 Input: Example user questions and retrieved chunks.
 Expected Help: Suggest prompt design strategies for generating answers grounded in retrieved sources.
 Verification: Check if generated answers are consistent with the retrieved evidence.
 
 **Milestone 3 — Ingestion and chunking:**
 
+Milestone 3 Results
+
+Documents loaded: 14
+Chunks created: 496
+Chunk size: 700 characters
+Overlap: 150 characters
+
 **Milestone 4 — Embedding and retrieval:**
 
+Embedding model: all-MiniLM-L6-v2
+
+Vector store: ChromaDB
+
+Top-k retrieval: 5
+
+I performed retrieval testing using the evaluation questions from the planning document. Relevant chunks got retrieved for questions about ML4T, NLP, course difficulty, and recommended first AI courses. Retrieval quality was varying depending on how directly the topic was discussed in the source documents. The best retrieval result achieved a distance score of approximately 0.33, and some broader queries returned weaker matches with distance scores above 0.70.
+
 **Milestone 5 — Generation and interface:**
+
+Generation model: 
+Groq llama-3.3-70b-versatile
+
+Interface: 
+Gradio
+
+The system uses retrieved chunks as context and instructs the LLM to answer only from the provided documents. If the retrieved context is not sufficient, the model is instructed to respond that it doesn't have enough information to answer. Source attribution is displayed with the generated answer by programmatically listing the retrieved document names, chunk IDs, and similarity scores.
+
+The final system allows users to ask questions about OMSCS AI specialization courses, retrieves the most relevant course reviews and Reddit discussions, generates a grounded response, and displays the sources used to answer the question.
