@@ -147,6 +147,27 @@ If this were deployed for real users and cost was not a constraint, I'd evaluate
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+I'll be using ChatGPT as my assistant.
+
+**Chunking**
+Input: My Chunking Strategy section above.
+Expected Help: Explain if my chosen chunk size and overlap are reasonable for Reddit posts and course reviews.
+Verification: Compare the recommendations with retrieval results from my implementation.
+
+**Embedding & Vector Store**
+Input: My Retrieval Approach section.
+Expected Help: Explain how sentence-transformer embeddings and ChromaDB work together in a RAG pipeline and help troubleshoot setup issues.
+Verification: Confirm that the embeddings are generated and stored correctly.
+
+**Retrieval**
+Input: Retrieval results from test queries.
+Expected Help: Help analyze whether retrieved chunks are relevant and suggest adjustments to top-k if needed.
+Verification: Manually inspect retrieval quality on evaluation questions.
+
+**Generation**
+Input: Example user questions and retrieved chunks.
+Expected Help: Suggest prompt design strategies for generating answers grounded in retrieved sources.
+Verification: Check if generated answers are consistent with the retrieved evidence.
 
 **Milestone 3 — Ingestion and chunking:**
 
