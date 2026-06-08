@@ -46,7 +46,7 @@ def print_results(query):
 
 if __name__ == "__main__":
     test_queries = [
-        "What courses do OMSCS students commonly recommend as a first course for students interested in AI?"
+        "Is the OMSCS NLP course worth taking if a student has already taken an NLP course before? "
     ]
 
     for query in test_queries:

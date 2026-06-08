@@ -112,7 +112,7 @@ def ask(question):
 
 
 if __name__ == "__main__":
-    question = "What courses do OMSCS students commonly recommend as a first course for students interested in AI?"
+    question = "What do students say about ML4T for someone pursuing the AI specialization?"
     result = ask(question)
 
     print("ANSWER:")
