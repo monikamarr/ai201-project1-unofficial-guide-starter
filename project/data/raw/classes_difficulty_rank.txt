@@ -136,29 +136,14 @@ HCI Specialization: (MUC, HCI), (EdTech, IHI, ICS), (DC, Compiler, CP, ESO, HPCA
 
 250
 ·
-87
-u/NissanUSA avatar
-NissanUSA
-•
-Promoted
-
-Inside the Nissan Rogue journey: 24 hours of focus for a lifetime on the road. See the American grit in Smyrna, TN. 📍​
-Learn More
-nissanusa.com
-Clickable image which will reveal the video player: Inside the Nissan Rogue journey: 24 hours of focus for a lifetime on the road. See the American grit in Smyrna, TN. 📍​
-Collapse video player
-
-0:00 / 0:00
-
-
 
 
 Comments Section
-u/OMSCS-ModTeam avatar
+u/OMSCS-ModTeam  
 OMSCS-ModTeam
 MOD
 •
-2y ago
+ 
 Mod Take - u/DavidAJoyner, seems like we need to up the HCI Spec abit 😬, at least putting one to Tier 4 or 5.
 
 But realistically, a huge chunk of us will try to get into Tier 1 classes. OMSCS Advisors have already known this. They're not dumb - so they have slightly modified their approach.
@@ -172,7 +157,7 @@ So Financial Modeling and Digital Marketing? You better think twice. Besides, a 
 14 more replies
 StreamingPotato4330
 •
-2y ago
+ 
 Hmm. Interesting take. Going into my last course i find myself disagreeing with a lot of what i'm seeing here, but could just be me.
 
 Edit: For instance, VGD was definitely NOT an almost free credit :D
@@ -181,55 +166,49 @@ Edit: For instance, VGD was definitely NOT an almost free credit :D
 44
 josh2751
 •
-2y ago
+ 
 VGD is a lot of work. Great course, and nothing really “hard” about it, but it’s a ton of work and if you don’t get a good group you’re kind of screwed.
 
 
 24
 beastwood6
 •
-2y ago
+ 
 I had a zombie group from hell and was asked last minute to finalize all the submissions which included an all nighter of obvious bug fixes that they couldnt be arsed to polish (so the playthrough video wouldnt look like obvious slimey trash).. I figure I gave the vibe of being the boy scout that wouldn't let things collapse so they went off to have their merry Sunday and nice sleep etc...
 
 11
 
-1 more reply
+ 
 Stagef6
 OP
 •
-2y ago
+ 
 The tier 1-3 labels may overstate the easiness of their courses, but VGD has the 3rd highest rate of A's awarded to students. If the work itself isn't easy, there's likely either a student selection bias or the course is doing something to encourage above-average performance.
 
 
 8
-u/sunmaiden avatar
+u/sunmaiden  
 sunmaiden
 •
-2y ago
+ 
 It’s a pure elective on a topic that a great many people are passionate about, more so than any other class offered. The class is well organized, and the project requirements are spelled out in detail. There’s a lot of work but there is no uncertainty - the main path to not getting an A is group dysfunction.
 
 17
 
-1 more reply
+ 
 koenafyr
 •
-2y ago
+ 
 IIS is the most surprising tbh but I imagine its because of the cybersecurity policy track students diluting the results.
 
 26
-u/Official_ATTFiber avatar
+u/Official_ATTFiber  
 u/Official_ATTFiber
 •
-Promoted
-
-Home internet from AT&T that works the moment you plug in at a simple, straightforward price.
-Learn More
-att.com
-Thumbnail image: Home internet from AT&T that works the moment you plug in at a simple, straightforward price.
-u/srsNDavis avatar
+u/srsNDavis  
 srsNDavis
 •
-2y ago
+ 
 With SDCC, I think it's not just the 'A or F' scheme, also a strong selection bias from the entry barrier. You need an A in AOS to sign up for SDCC, and it's the only prerequisite (to my knowledge) in all of OMSCS that is enforced (you get put on audit mode without the prereq).
 
 By the way, in addition to the easiest and hardest possible course plans, it might be a worthwhile addition to add easiest and hardest course plans per spec.
@@ -238,19 +217,19 @@ While the data is interesting to look at, I do have the occasional disagreement.
 
 
 18
-u/pacific_plywood avatar
+u/pacific_plywood  
 pacific_plywood
 •
-2y ago
+ 
 You explicitly don’t want your results in ML to be too good, or else there’s nothing to explore. It’s a class about experimental design and analysis, not just achieving the best results.
 
 6
 
-1 more reply
+ 
 Stagef6
 OP
 •
-2y ago
+ 
 Good callout on the SDCC prerequisite, I had forgotten that. It's definitely selection bias driving it down.
 
 I start in Spring '24, so I don't have a personal reference for any of these. Some of them do seem a bit off based on reviews I've read, but doing this before having any sort of attachment to certain classes is kind of the point. If everyone did their own subjective ranking, you'd likely end up with a few thousand different lists, none of them matching.
@@ -259,28 +238,28 @@ I'll probably add easiest/hardest by spec soon. Just taking a break. It took a w
 
 5
 
-1 more reply
+ 
 
 9 more replies
 mycodesmells404error
 •
-2y ago
+ 
 There is no possible way IIS is as hard as GIOS or any of the other tier 5 classes. Like not even close, I’d say it’s borderline easy, if not a medium difficulty class.
 
 
 31
 [deleted]
 •
-2y ago
+ 
 IIS is the easiest class I’ve taken in the program. Easier than SAD and SDP.
 
 12
 
 2 more replies
-u/jeffpardy_ avatar
+u/jeffpardy_  
 jeffpardy_
 •
-2y ago
+ 
 The biggest reason that it's hard is because on the cyber side, all specialization need to take it. So all the policy track needs to take this pretty code heavy class, so it's very difficult for them
 
 6
@@ -288,7 +267,7 @@ The biggest reason that it's hard is because on the cyber side, all specializati
 10 more replies
 idempotentreaction
 •
-2y ago
+ 
 As someone who just finished Compilers, the title of Tier 7 is quite apt lol. I took off work for all of Thanksgiving break and didn’t do anything besides work on the final project all week in order to finish (love the class though and it’s definitely worth taking)
 
 
@@ -296,34 +275,18 @@ As someone who just finished Compilers, the title of Tier 7 is quite apt lol. I 
 
 [deleted]
 •
-2y ago
-u/Fanta_Official avatar
-u/Fanta_Official
-•
-Promoted
-
-Wanta Fanta? Come Get It
-Learn More
-coca-cola.com
-Clickable image which will reveal the video player: Wanta Fanta? Come Get It
-Collapse video player
-
-0:00 / 0:00
-
-
-
 
 ZildjianRemo
 •
-2y ago
+ 
 Funny enough ML4T is commonly believed to be a “easy” class
 
 
 12
-u/Namfoodlenackle avatar
+u/Namfoodlenackle  
 Namfoodlenackle
 •
-2y ago
+ 
 I got a lower grade in ML4T than ML lol
 
 14
@@ -332,11 +295,11 @@ I got a lower grade in ML4T than ML lol
 
 [deleted]
 •
-2y ago
-u/awp_throwaway avatar
+ 
+u/awp_throwaway  
 awp_throwaway
 •
-2y ago
+ 
 Interesting analysis overall. The one additional caveat I'd throw into the mix here is that if you're going for tier 6+ or so stuff, then there's no shame in finishing with a C (provided you can counter-balance with an A elsewhere, can count as a free elective rather than a core, etc.). At least for me personally, if I leave a course smarter than when I entered, that's "mission accomplished" as far as I'm concerned; beyond that, the grade/GPA is just a "bureaucratic formality." (My end goal is terminal MS and continue working in industry as an SWE, so of course caveat to my caveat here is "ymmv"...)
 
 10
@@ -344,33 +307,33 @@ Interesting analysis overall. The one additional caveat I'd throw into the mix h
 2 more replies
 Tvicker
 •
-2y ago
+ 
 Made a huge job creating the tables, did not add normal course names making tables unreadable 💪👍
 
 
 8
-u/awp_throwaway avatar
+u/awp_throwaway  
 awp_throwaway
 •
-2y ago
+ 
 Most people in the subreddit recognize the acronyms at this point (designated AKA in the tables). For anyone else, there is omscs.rocks to cross-reference accordingly...
 
 There may be potential criticisms of this analysis, its implications, etc., but I'd say this particular one is tenuous at best.
 
 7
-u/Difficult_Review9741 avatar
+u/Difficult_Review9741  
 Difficult_Review9741
 •
-2y ago
+ 
 DC is the most frustrating class I’ve taken in the program, and I’ve taken a bunch of difficult classes. Quite frankly that class is not friendly to your mental health if you’re doing it on top of a full time job.
 
 6
 
 2 more replies
-u/marksimi avatar
+u/marksimi  
 marksimi
 •
-2y ago
+ 
 Neat.
 
 Given this is a subjective weighting system applied to data that includes subjective ratings and no adjustment is made for potential selection bias in students (niche courses with higher perceived difficulties like compilers and SDCC could attract more invested/experienced students than more general CS courses like CN and GIOS), this isn’t a surgical list and plenty of these rankings could flex up or down a few slots.
@@ -381,25 +344,25 @@ You touch upon false precision caused by error: why not output ranges instead of
 
 5
 
-1 more reply
-u/Solid_Brain_3315 avatar
+ 
+u/Solid_Brain_3315  
 Solid_Brain_3315
 •
-2y ago
+ 
 I thought sim was much harder than what is implied here. Only roughly 30% of my semester received as
 
 4
 
-1 more reply
+ 
 guruguru1989
 •
-2y ago
+ 
 SAT is considered as harder than GIOS? Might be due to the number of enrollments ?
 
 3
 black_cow_space
 •
-2y ago
+ 
 Very nice!
 
 Would be nice to make a spreadsheet of this that autoupdates now and then. Because this will be dynamic in time.
@@ -407,7 +370,7 @@ Would be nice to make a spreadsheet of this that autoupdates now and then. Becau
 3
 a_bit_of_byte
 •
-2y ago
+ 
 Quite a bit to unpack here, but this is an awesome look at combining all this data!
 
 How did you account for students that withdraw? Do you think that could be a reflection of how difficult a course is?
@@ -419,7 +382,7 @@ I also wish there was a way to measure some more intangibles. NLP, for example, 
 Stagef6
 OP
 •
-2y ago
+ 
 NLP is a good example of a course whose ranking is more likely affected by student selection bias. It's a relatively recent addition and the only students who have been able to get in are later in the program and likely have AI, ML, and/or DL under their belts. It's possible it floats down to Tier 2 as semesters go by.
 
 % of W's are taken from Lite. All else equal, the assumption made here is that a course with more W's is harder than a course with less. That said, it's the "grade" that has the lowest weight in this ranking and only weights heavier than student overall ratings. Low A's and B's or high C's, D's, or F's will drive a rank down the list a lot more than high W's.
@@ -427,22 +390,22 @@ NLP is a good example of a course whose ranking is more likely affected by stude
 7
 [deleted]
 •
-2y ago
+ 
 KBAI wasn't as hard as it seems. Its just alot of work but the assignments are straight forward.
 
 4
 
-1 more reply
+ 
 Stagef6
 OP
 •
-2y ago
+ 
 Easiest and Hardest Paths for each Specialization has been added to the post.
 
 2
 Present-Computer7002
 •
-2y ago
+ 
 can someone post links and 1 sentence description of these
 
 
@@ -450,16 +413,16 @@ can someone post links and 1 sentence description of these
 Stagef6
 OP
 •
-2y ago
+ 
 Links are a fantastic idea. I've added these to the lists. Thanks for the suggestion!
 
 2
 
-1 more reply
-u/i_heart_cacti avatar
+ 
+u/i_heart_cacti  
 i_heart_cacti
 •
-2y ago
+ 
 I’ve taken (1) Tier 6, (1) Tier 5, (3) Tier 4, (1) Tier 3, and (1) Tier 2. To me it’s just fascinating that you can create these kinds of rankings with OMSCS. In undergrad I have often had no idea what I was getting into until the first exam for each class!
 
 Personally I’ve gotten the most out of my Tier 5+ classes + QC and HCI which were uniquely strong at teaching without necessarily taking up ALL my free time. But the other ones were important because I work full time and hence also want to enjoy life a little bit while earning this degree.
@@ -469,10 +432,10 @@ Edit: I could see some sort of exponential weighting biased towards more recent 
 Some of these classes more recent semester grade distributions look very very different.
 
 3
-u/ulenie1 avatar
+u/ulenie1  
 ulenie1
 •
-2y ago
+ 
 IIS hard lol. Has been the easiest class I have taken so far.
 
 1

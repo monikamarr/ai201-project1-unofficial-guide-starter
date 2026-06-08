@@ -3,65 +3,49 @@ I’m currently in IIS (6035) and from previous semesters this was supposed to b
 
 41
 ·
-51
-u/microsoft365 avatar
-microsoft365
-•
-Promoted
-
-Update your plan in a single prompt with Copilot in Word.
-Learn More
-m365copilot.com
-Clickable image which will reveal the video player: Update your plan in a single prompt with Copilot in Word.
-Collapse video player
-
-0:00 / 0:00
-
-
-
 
 Comments Section
-u/batmanbury avatar
+u/batmanbury  
 batmanbury
 •
-1y ago
+ 
 Having had significant development experience made it feel “easy” but I really struggled with the ML project, since I’d never even dabbled with that. 3 extras projects in summer? That does seem like a big change all at once. The only project other than ML that took up the full allotted time for me was binary exploitation. Only advice then is to actually work everyday, as much as you’re able, without assuming you can crank something out on a weekend.
 
 
 25
-u/GopherInTrouble avatar
+u/GopherInTrouble  
 GopherInTrouble
 OP
 •
-1y ago
+ 
 Sorry actually I was wrong he added 3 projects last summer so same amount this summer as last. But yeah it’s a lot, the ML project was actually easier for me and binary exploitation really had me feeling down bad. I’m trying to work on the projects as much as I can but it’s hard
 
 
 6
-u/batmanbury avatar
+u/batmanbury  
 batmanbury
 •
-1y ago
+ 
 
 
 8
 kuniggety
 •
-1y ago
+ 
 Here's the thing about IIS: It covers a lot of ground. If you already have a cybersecurity background, ie Net+/Sec+, maybe a SANS course, have done some Hack the Box, maybe a penetration testing course, etc, then you're going to be way better equipped to take the course. The only projects that took me close to 10 hours were the first one (IRC/Wireshark) and binary exploitation (I second guessed myself on one of the answers and solved it in two different ways). All the rest were 4-8 hours. Computer Networks might be a better start if you're not already familiar with networking/internet/servers, etc. I think it's all doable with a lesser background but it's going to be much more of a grind. Start early and just spend a lot of time hacking away at it.
 
 
 15
 YoiTzHaRamBE
 •
-1y ago
+ 
 Tbh I've heard that this course is hard for Cyber security majors because of all the programming involved. As a long time SWE this course was fun and I learned a good bit about Cyber security, but it felt like an easy/medium class to me...in the Fall
 
 5
-u/srsNDavis avatar
+u/srsNDavis  
 srsNDavis
 •
-1y ago
+ 
 Net+/Sec+, maybe a SANS course, have done some Hack the Box, maybe a penetration testing course, etc
 
 This part literally reads like: Okay this is the last one. Oh wait, there's more. Oh wait, there's even more... Oh wait there's an 'etc' at the end.
@@ -73,17 +57,17 @@ Didn't take IIS but this is a fair description of some courses.
 2 more replies
 schnurble
 •
-1y ago
+ 
 I'm feeling the same way in Intro to CogSci. The material is dense and dry, there's a lot of reading, and while the concepts really do interest me intellectually they are far enough away from my main interests that my ADHD has gone into overdrive, and focus is almost nonexistent.
 
 Good luck my friend, stay the course. I believe in you.
 
 
 12
-u/srsNDavis avatar
+u/srsNDavis  
 srsNDavis
 •
-1y ago
+ 
 This had to be said.
 
 There's a pernicious myth about the HCI courses being the easy road to the degree - maybe even speedrun to it.
@@ -94,36 +78,36 @@ Then, the dense readings hit the true believers.
 12
 OllieWallyOxenFree
 •
-1y ago
+ 
 I took ICS as an elective out of interest. The volume of reading and writing in that course is on a different level!
 
 4
-u/GopherInTrouble avatar
+u/GopherInTrouble  
 GopherInTrouble
 OP
 •
-1y ago
+ 
 Thank you feller ADHDer. I also saw that course has so much reading and I figured I would not do well in that
 
 
 3
 schnurble
 •
-1y ago
+ 
 I feel like it would be ok in Fall/Winter but in summer the loss of 4 weeks compresses too much.
 
 3
-u/Temporary-Forever-60 avatar
+u/Temporary-Forever-60  
 Temporary-Forever-60
 •
-1y ago
+ 
 Doing same now, small tip. When starting a project, look through what other people wrote on the forum first to guide search for reading/materials. I’ve so far got maximum points from assignments but I don’t pretend that I’ve managed to do all the readings as it’s quite a lot. Keep gpt open when doing quizzes (it’s allowed see ed discussion post), and leverage genAI to speed up writing/polishing text (but disclose it at the end! I did that and I have never had issues)
 
 2
-u/spacextheclockmaster avatar
+u/spacextheclockmaster  
 spacextheclockmaster
 •
-1y ago
+ 
 Don't give up fellow Gopher. Just keep going and it will work out.
 
 
@@ -133,16 +117,16 @@ Don't give up fellow Gopher. Just keep going and it will work out.
 4 more replies
 Ripwkbak
 •
-1y ago
+ 
 I had a huge misconception of how “easy” or hard this whole program was going to be. It was much more rigorous than I could have ever imagined. I will tell you right now the only marginally easy classes I have taken are HCI and ICS which are classes where you write some papers and in one have some quizzes. They still required large amounts of research but no night after night of code or anything like that. I have spent 16 yrs in IT and security and thought IIS would be easy too, it wasn’t super hard but I know what you mean by underestimating it and I don’t think that one was ever “light” but isn’t now especially if they added 3 projects. Stick with it and realize sometimes in this program it will essentially take the same amount of time as a second job. I have gone without sleep for days because of it. Also, really don’t get cocky and attempt 2 classes unless you have insane amounts of time or are crazy.
 
 
 12
-u/GopherInTrouble avatar
+u/GopherInTrouble  
 GopherInTrouble
 OP
 •
-1y ago
+ 
 I wasn’t expecting a cakewalk but I didn’t think I’d be spending so many hours on one task and not knowing where I was going with it and seeing everyone else ace it. Part of it is also the time crunch which I’m sure is part of the learning process of doing things in a crunch.
 
 I haven’t taken 2 classes in a semester yet but I was planning on taking GIOS and AIES in the fall. Might have to rethink that with this class
@@ -151,7 +135,7 @@ I haven’t taken 2 classes in a semester yet but I was planning on taking GIOS 
 4
 Ripwkbak
 •
-1y ago
+ 
 So one thing that really killed me a few times in IIS is I was way overthinking the problem. The Wireshark exercise took me 4x as long as it should of because I was expecting it to be like a real Wireshark capture and when I saw the flag I was like "Hah thats too easy let me find it for real". So make sure you're not messing yourself up in your head here. Also, you never know the amount of time others have to throw at this vs you. I have been in classes where almost everyone else in the class was doing the program and not working and I felt super behind. The time crunch is why you need to pick summer courses super carefully. I know this is hindsight 20/20 at this point but there are classes that actually drop assignment for summer (Not add 3). So going forward def keep that in mind.
 
 4
@@ -159,50 +143,50 @@ So one thing that really killed me a few times in IIS is I was way overthinking 
 3 more replies
 MahjongCelts
 •
-1y ago
+ 
 Granted my undergrad was not in CS, but I went in expecting a difficult degree and so far it did not disappoint in this regard. Started pulling overnighters again.
 
 I think the best way is to treat it as the equivalent of GaTech’s in-person masters degree - which it literally is, the same degree is awarded - and study on that basis (pro-rated on courseload ofc). Not addressed at OP but some people are under the misconception that this is some sort of easy way to grab a masters, because of the non-competitive admissions reqs and online delivery, yet such a mentality sets one up for disaster.
 
 2
-u/Olorin_1990 avatar
+u/Olorin_1990  
 Olorin_1990
 •
-1y ago
+ 
 We are all imposters from time to time. Keep plugging and hopefully we can be imposter’s that got out.
 
 5
-u/Prestigious-Score820 avatar
+u/Prestigious-Score820  
 Prestigious-Score820
 •
-1y ago
+ 
 Dude, we're in the same class right now, you're def's not alone. I think you're probs being a little unfair to yourself for feeling imposter syndrome. Every week we're thrown into the deep end with a different thing/technology while also being given just the bare minimum that's needed to accomplish the project. If you make a class about networks, machine learning, C programming, Javascript, infosec, etc... and that's only been up to now, we're only half done. Eventually everyone is going to come across something and be like, wtf is this? and only have a week to figure it out.
 
 Just for reference I don't have a professional background in IT or Software Engineering. I'm not working right now and I'm probably spending 20-30 hours minimum on IIS. It took me 3 days just to figure out the ropscotch flag in binexp
 
 5
 
-1 more reply
+ 
 Cold-guru
 •
-1y ago
+ 
 It’s a gatekeeper. You can do it with self research and a lot of that. Btw it gets harder.
 
 4
 
-1 more reply
+ 
 TacticsHT
 •
-1y ago
+ 
 Im in this class (IIS) now for the summer semester. This is my 5th course in the program with all A’s and B’s so far. Ive been doing alright on the projects by starting way ahead of time. I made the mistake of procrastinating on the binary exp project and got a really bad grade so now I have to be really careful the rest of this semester. It definitely feels abnormally difficult for a summer class.
 
 Just keep grinding and focus for the rest of this semester you’ll get through!
 
 4
-u/IllAlfalfa avatar
+u/IllAlfalfa  
 IllAlfalfa
 •
-1y ago
+ 
 Currently with you in IIS and its only "easy" so far in the sense that all there is to do are projects. The projects are also nice in that you don't have to write reports and you know exactly how you did with Gradescope. So the limited deliverables and no lectures makes it not feel like it takes all that much time. That being said, the projects themselves aren't cakewalks.
 
 Given the capture the flag nature of most projects it is really easy to just waste a ton of time going down the wrong paths for things, so the time for each project can really spiral out of control if you aren't careful. I'll also add that the projects are all way easier if you have experience in related areas - it is almost assumed that you do, otherwise I would imagine you need to do a lot of self-directed learning to get caught up or try to stay afloat. I guess that's what happens when you try to do a Project-only course with no lectures. I've had enough relevant experience to get through Projects 1-4 fairly easily, but the Web Security project is destroying me now because I've never touched html in my life.
@@ -211,17 +195,9 @@ Don't beat yourself up too much if you're struggling, I would be absolutely lost
 
 4
 
-1 more reply
-u/briumvi_ublituximab avatar
-u/briumvi_ublituximab
-•
-Promoted
 
-AMA about RMS & BRIUMVI® (ublituximab-xiiy)! Hi, I'm Dr. Lauren Gluck, a board-certified Neurologist. And I'm Jules, I take Briumvi and have lived with RMS for over a decade. On World MS Day, May 30th at 12 PM ET, we'll answer your questions. Submit them now!
-Thumbnail image: AMA about RMS & BRIUMVI® (ublituximab-xiiy)! Hi, I'm Dr. Lauren Gluck, a board-certified Neurologist. And I'm Jules, I take Briumvi and have lived with RMS for over a decade. On World MS Day, May 30th at 12 PM ET, we'll answer your questions. Submit them now!
-MahjongCelts
 •
-1y ago
+ 
 When students talk about the difficulty of courses here it is usually relative to other OMSCS courses. In absolute terms OMSCS itself is a rigorous STEM degree from a top US university. It is easy to get in because GaTech doesn’t like gatekeeping on the admissions level, but getting out is the hard part. Adjust your expectations or better yet prepare accordingly.
 
 As for the rest of the class supposedly aceing the class, there is of course survivorship bias - those who aren’t aceing probably won’t be the most active on EdTech or other platforms, if not dropping the class entirely. And unless someone in your household is also doing OMSCS you won’t see your coursemates’ efforts/struggles behind the screen so to speak, only the end result.
@@ -229,60 +205,60 @@ As for the rest of the class supposedly aceing the class, there is of course sur
 4
 TrashConvo
 •
-1y ago
+ 
 Same boat, took this as a “light” summer class and it is definitely more of a commitment than I anticipated. Cool class overall though. I struggled through the binary exploitation assignment, I think I only got a little over half through. The other assignments have been fine. Experiences will vary.
 
 My feedback for the binary exploitation assignment would be to skip the bit about manipulating the grading environment and to give more examples of passing input with pwntools.
 
 3
-u/Different-Shame-1928 avatar
+u/Different-Shame-1928  
 Different-Shame-1928
 •
-1y ago
+ 
 Keep on keepin' on!
 
 3
 Aggressive_Thing2973
 •
-1y ago
+ 
 Hey, I recently got accepted and I can’t say how much anxiety and imposter syndrome as hit me. It’s not because I’m afraid, but because I am unsure! Even after ready the syllabus. I com to riddle and everyone cries how hard it is makes it even worst lol! But we will get through this together!
 
 2
 unix_slut
 •
-1y ago
+ 
 I’m also in CS 6035 currently and struggling more than any other OMSCS class I’ve taken (this is my 6th). I’ve done ok on most of the assignments so far but it’s taken me many hours. I finished bin exp with a 35% so I’ll have to try to make up for that 🫠 I don’t have a cyber background at all and have never done any CTF type work before this. The projects are taking me 20+ hours some weeks. They are challenging but I’m finding them rewarding. You’re not alone. Best of luck!
 
 
 2
-u/GopherInTrouble avatar
+u/GopherInTrouble  
 GopherInTrouble
 OP
 •
-1y ago
+ 
 Omg I got the same score LOL and it honestly seems like so many others aced it. Also They posted the statistics on GitHub, we’re not alone haha. Same the projects are taking me so long except for API security. Web security is also taking a while but somehow it’s much simpler than it seems. Best of luck to you too!
 
 1
-u/BakerInTheKitchen avatar
+u/BakerInTheKitchen  
 BakerInTheKitchen
 •
-1y ago
+ 
 Hey I’m in the class right now! So my background is in data science so the ML project wasn’t bad, but it was time consuming. Binary exploitation also was very time consuming and hard for just 1 week whereas fall/spring semesters get 2 weeks. What makes the class hard is it covers all sorts of stuff, from C to Python to web development and all of those with cybersecurity topics layered in. I took computer networks in the spring as my first class and that helped me with the first project. Not sure when you start projects, but I’d recommend trying to get started sooner if you’re waiting. A lot of times I hit a wall quickly and just need to take a little time to think about it. But I can’t do that if I wait until the last day and am trying to sprint through it before the deadline
 
 
 2
-u/GopherInTrouble avatar
+u/GopherInTrouble  
 GopherInTrouble
 OP
 •
-1y ago
+ 
 My background is general CS, this is my first exposure to security actually so a lot of it was newer. The ML project wasn’t bad for me until task5. MITM was new to me because of wireshark so I tanked that one too. Binexp had me wondering if I should not have even been in CS altogether, especially when there are people posting about finishing the extra credit. And the worst part for me is that I start these projects relatively early. Like I started this project on Saturday morning and still on task 1. And I started Binexp on the Sunday night after ML. It’s been taking me a lot longer than others apparently
 
 1
-u/jimlohse avatar
+u/jimlohse  
 jimlohse
 •
-1y ago
+ 
 They didn't add 3 more projects for the summer, they've been running 9 projects for some time now. and to be clear there's no required exams so that offsets the high number of projects, in theory.
 
 IMO it's really the Registrar's fault for making Summmer so short, not IIS fault for presenting a full semester's work. Because you're still getting credit for a full 3 unit course, the idea is that you need to do the same amount of work as the Fall and Spring semesters for the class to count.
@@ -301,11 +277,11 @@ Assuming this is only your second semester, over time you will grow and mature i
 
 
 2
-u/GopherInTrouble avatar
+u/GopherInTrouble  
 GopherInTrouble
 OP
 •
-1y ago
+ 
 Yup I understand the reasoning for making this summer session the same as full semesters, I don’t know how they expect us all to learn the tools and languages in less than a week and finish the projects. Yes this is my second course at OMSCS, but I’ve taken two others previously at a different college. This one is definitely harder because of all of the different tools used and almost all of them I’ve ever touched before. But what makes me feel even worse is that I’m sure 80% of the students have never seen this stuff before. The drop date is next Saturday and I might have to drop, it just really sucks because I was eyeing this course since I was looking into the program.
 
 Definitely a bad summer experience and a mistake on my end, I’ll have to do some better thinking going forward to see how I can avoid this experience. I’m more sour on my own abilities than the program overall
@@ -315,7 +291,7 @@ Definitely a bad summer experience and a mistake on my end, I’ll have to do so
 5 more replies
 black_cow_space
 •
-1y ago
+ 
 IIS is a fairly light class but it did have 1-2 tough projects.
 
 So I wouldn't feel too worried about that.
@@ -323,5 +299,5 @@ So I wouldn't feel too worried about that.
 1
 HGrande
 •
-1y ago
+ 
 There are no easy classes in OMSCS only classes that don’t require as much time as others. The easy class perception is a sure way to a B or worse. 

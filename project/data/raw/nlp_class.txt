@@ -3,51 +3,35 @@ I took Andrew Ng's NLP course on coursera a year or two ago, it covered a lot of
 
 19
 ·
-21
-u/NissanUSA avatar
-NissanUSA
-•
-Promoted
-
-Drive it. Push it. Test it. Nissan Rogue is built for all the noisy, crazy Happy Chaos you can throw at it.
-Learn More
-nissanusa.com
-Clickable image which will reveal the video player: Drive it. Push it. Test it. Nissan Rogue is built for all the noisy, crazy Happy Chaos you can throw at it. 
-Collapse video player
-
-0:00 / 0:00
-
-
-
 
 Comments Section
-u/furrzpetstore avatar
+u/furrzpetstore  
 furrzpetstore
 •
-1y ago
+ 
 I took NLP and yes it is a good course. I like the homework and how the course is organized.
 
 17
-u/IGN_WinGod avatar
+u/IGN_WinGod  
 IGN_WinGod
 •
-1y ago
+ 
 Taking it right now, it's seriously the best course I've taken out of 8. II specialization.
 
 
 21
-u/AngeFreshTech avatar
+u/AngeFreshTech  
 AngeFreshTech
 •
-1y ago
+ 
 what list of courses did you take ?
 
 
 7
-u/IGN_WinGod avatar
+u/IGN_WinGod  
 IGN_WinGod
 •
-1y ago
+ 
 Have taken game AI course and that was definitely #2, VGD as #3. The rest were not that good, KBAI, AI, HCI as main specializations.
 
 3
@@ -55,101 +39,87 @@ Have taken game AI course and that was definitely #2, VGD as #3. The rest were n
 2 more replies
 eko-wibowo
 •
-1y ago
+ 
 What's about it that make it the best? I've seen other people in this subreddit saying it's too easy and not that useful. What are your thoughts ?
 
 
 2
-u/IGN_WinGod avatar
+u/IGN_WinGod  
 IGN_WinGod
 •
-1y ago
+ 
 For me it's b/c I do RL for work, I can now build more connections to how nlp and RL be paired. Just a broader understanding.
 
 3
 
 3 more replies
-u/Decent-Bed7651 avatar
+u/Decent-Bed7651  
 Decent-Bed7651
 •
-1y ago
+ 
 Hey, u mind sharing the syllabus? It’s not available on the public course link!
 
 1
-u/flycrg avatar
+u/flycrg  
 flycrg
 •
-1y ago
+ 
 It depends. What is your goal of the course? To get credit towards graduating or learn new things? If its to get an easy credit then absolutely. If its to learn new things that weren't covered in Ng's course, you may want to look elsewhere.
 Personally I fell into the first group and it was an easy A.
 
 
 5
-u/Odd-Cup8261 avatar
+u/Odd-Cup8261  
 Odd-Cup8261
 OP
 •
-1y ago
+ 
 Mostly learn new things but get an easy credit would be nice too.
 
-3
-u/volvocarusa avatar
-u/volvocarusa
-•
-Promoted
-
-The EX90 knows what’s ahead, even in the dark. Designed to be the safest Volvo ever made.
-Learn More
-volvocars.com
-Clickable image which will reveal the video player: The EX90 knows what’s ahead, even in the dark. Designed to be the safest Volvo ever made.
-Collapse video player
-
-0:00 / 0:00
 
 
 
-
-u/ChipsAhoy21 avatar
+u/ChipsAhoy21  
 ChipsAhoy21
 •
-1y ago
+ 
 I wouldn’t. I’m in it now and it’s all super high level. I think you would get more out of binge watching the stats quest videos in the DL channel on youtube.
 
 
 5
-u/IGN_WinGod avatar
+u/IGN_WinGod  
 IGN_WinGod
 •
-1y ago
+ 
 I think if you pair then together it's actually quite nice. I have the dl book and it's really good for low level and nlp lectures for higher level.
 
 2
-u/B4bane avatar
+u/B4bane  
 B4bane
 •
-1y ago
+ 
 Was able to directly apply things I learned from this course to my job. 100% recommend.
 
 2
 windhunter89
 •
-1y ago
+ 
 not worth it, take DL and learn more, NLP is part of DL course as well. You wont miss much.
 
 
 1
 eko-wibowo
 •
-1y ago
+ 
 Can you elaborate on this? Which parts are overlapping? Which parts are you missing by skipping NLP?
 
 Here's the recent DL syllabus I'm looking at https://omscs.gatech.edu/sites/default/files/documents/2024/Syllabi-CS 7643 2024-1.pdf
 
 1
-u/spacextheclockmaster avatar
+u/spacextheclockmaster  
 spacextheclockmaster
 •
-1y ago
+ 
 No, not worth it. Take DL instead.
 
 1

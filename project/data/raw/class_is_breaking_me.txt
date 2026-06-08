@@ -8,88 +8,79 @@ Edit Pt. 2: I ended up sticking to the class and ended with an A. Hearing everyo
 8
 ·
 38
-u/northeasternglobal avatar
-northeasternglobal
-•
-Promoted
-
-Northeastern’s graduate programs in Oakland and Silicon Valley combine hands-on learning with career-focused experience. Fall 2026 and Spring 2027 admitted students are automatically considered for scholarships, with up to 40% tuition support available.
-Learn More
-connect.northeastern.edu
-Thumbnail image: Northeastern’s graduate programs in Oakland and Silicon Valley combine hands-on learning with career-focused experience. Fall 2026 and Spring 2027 admitted students are automatically considered for scholarships, with up to 40% tuition support available.
 Comments Section
-u/Outside_Knowledge_24 avatar
+u/Outside_Knowledge_24  
 Outside_Knowledge_24
 •
-8mo ago
+ 
 What is class is this?
 
 
 55
 PeaSierra
 •
-8mo ago
+ 
 it's this class!
 
 35
 
-1 more reply
+ 
 goro-n
 •
-8mo ago
+ 
 You need to say what the class is
 
 28
 [deleted]
 •
-8mo ago
+ 
 Plot twist: class is AIES
 
 
 39
 Lopsided-Wish-1854
 •
-8mo ago
+ 
 ROFL, I had the team project of AIES we could not meet the DEI quotas no matter what parameters we put in. One of the guys accidentally didn’t merge our code properly with his, and when it ran, got perfect result. Everyone yelled at once “don’t f. touch it, just commit and push” lol
 
 12
 
-1 more reply
+ 
 Jtzho
 •
-8mo ago
+ 
 Yes, been there with RL. The last project was brutal, spent almost 15hours daily on it for weeks and yet still cannot solve it. Also, was doing all these while working plus handling a newborn. I feel like dying everyday.
 
 Edit: it turns out well in the end. Got an A despite not solving it, I guess hardwork pays off.
 
 
 21
-u/swcooke avatar
+u/swcooke  
 swcooke
 •
-8mo ago
+ 
 The deepracer project? That one frustrated me to no end but was pretty interesting
 
 
 7
 Jtzho
 •
-8mo ago
+ 
 Overcooked project.
 
 6
 
-1 more reply
+ 
 theorizable
 •
-8mo ago
+ 
 BRO. The final for RL just had me laughing the entire exam. I either didn't study or, I don't know what happened with that. Every question looked like it was asking the same thing. I killed it on the projects though because I really like RL conceptually. But damn, the final was a joke.
 
 2
-u/mechtonia avatar
+u/mechtonia  
 mechtonia
 •
-8mo ago
+ 
 Some sage advice I saved during my OMSCS adventure:
 
 "I think success in this class is strongly tied to one's mental attitude. Anxiety, fear, and lack of confidence easily lead to burning out. (I'm in the unique position to have seen this pattern rather often the past two years.)
@@ -114,18 +105,18 @@ Even if you have to retake this class (or 8803-GA when it replaces 6505) in a la
 
 
 16
-u/BlackDiablos avatar
+u/BlackDiablos  
 BlackDiablos
 •
-8mo ago
+ 
 This could be easily mistaken for advice that would be posted on the 6515 forum in the year 2025, timeless
 
 
 5
-u/srsNDavis avatar
+u/srsNDavis  
 srsNDavis
 •
-8mo ago
+ 
 Yeah this part his a giveaway.
 
 The sole measure of performance in this course is being able to solve problems, so all of your studying should start and end with your ability to do the problem sets.
@@ -134,70 +125,54 @@ I mean, HPC comes close but even that's problem solving + acing the correctness 
 
 2
 
-1 more reply
-u/walmart avatar
-u/walmart
-•
-Promoted
 
-Mix-&-match styles for the real experts—rules not included. Only at Walmart.
-Shop Now
-walmart.com
-Clickable image which will reveal the video player: Mix-&-match styles for the real experts—rules not included. Only at Walmart.
-Collapse video player
-
-0:00 / 0:00
-
-
-
-
-u/6Burgers avatar
+u/6Burgers  
 6Burgers
 •
-8mo ago
+ 
 what class is this?
 
 14
-u/lulu_fangirl avatar
+u/lulu_fangirl  
 lulu_fangirl
 •
-8mo ago
+ 
 Just say the class bro
 
 9
 Stejuan
 •
-8mo ago
+ 
 ML?
 
 
 5
-u/Quabbie avatar
+u/Quabbie  
 Quabbie
 •
-8mo ago
+ 
 Doesn’t sound like ML since OP mentioned peer reviews.
 
 
 3
 guiambros
 •
-8mo ago
+ 
 Also the they miss having "active Ed discussions". I can barely keep up with the firehose of posts (not counting the many duplicate and irrelevant questions). And there's Discord as well, which I barely have time to check.
 
 3
 SkilledApple
 •
-8mo ago
+ 
 If you're talking about ML, there's at least the feedback from the first assignment that can give us an idea of what the rubic would be if we actually had access to one. My reviewer basically went down the list and showed earned/max points for each part of the assignment. Using that, I created a pseudo-rubric for the next assignment and used that to determine my optimal stopping point.
 
 Keeping up with reports, reading assignments, and pre-recorded lectures that feel... tangential... has been a juggling act for sure. I hope you find what works for you!
 
 4
-u/ScratchSF avatar
+u/ScratchSF  
 ScratchSF
 •
-8mo ago
+ 
 You’re not alone in feeling this way. Many OMSCS students hit a point where a course demands far more time and mental energy than expected. But remember: this program is a marathon, not a sprint. In the long run, no one will care how long it took you to finish. What matters is that you finish healthy, grounded, and still curious about what you’re learning.
 
 If you find yourself consistently spending far more hours than the class average or what’s sustainable for you, that’s often a signal to pause and make sure your foundation is solid. Sometimes the best next move isn’t to push harder; it’s to step back, regroup, and come back stronger.
@@ -207,19 +182,11 @@ Given that this is affecting your well-being, it may be worth seriously consider
 While OMSCS courses don’t always list prerequisites, that doesn’t mean they’re entry-level. Without a solid foundation, it can feel like trying to change the wheels on a plane while it’s already rolling down the runway. Slowing down now doesn’t mean you’ve failed; it means you’re making a smart decision to ensure a smoother takeoff next time.
 
 4
-u/wise avatar
-u/wise
-•
-Promoted
 
-ICYMI. You can still catch Wise co-founder and CEO Kristo Käärmann's first AMA right here.
-ICYMI. You can still catch Wise co-founder and CEO Kristo Käärmann's first AMA right here.
-ICYMI. You can still catch Wise co-founder and CEO Kristo Käärmann's first AMA right here.
-reddit.com
-u/fishhf avatar
+u/fishhf  
 fishhf
 •
-8mo ago
+ 
 It's KBAI right?
 
 4
@@ -227,14 +194,14 @@ It's KBAI right?
 3 more replies
 SanSanNiu
 •
-8mo ago
+ 
 what class？
 
 3
-u/SomeGuyInSanJoseCa avatar
+u/SomeGuyInSanJoseCa  
 SomeGuyInSanJoseCa
 •
-8mo ago
+ 
 It’s gotten to the point where I feel like I might be mentally unwell.
 
 I'm truly baffled on why anyone would sacrifice their mental health to avoid getting a "W" in one class. How are you even debating it? Just drop it. It's the easiest decision around.
@@ -251,7 +218,7 @@ Guess what? That's life as a Software Engineer as well.
 3
 YoiTzHaRamBE
 •
-8mo ago
+ 
 This is a weak take.
 
 We pay GA Tech for educational services and they grade our work as we work towards a degree. They owe it to us to tell us how they're measuring success in order for us to succeed.
@@ -260,10 +227,10 @@ As a SWE, you should absolutely be told what success looks like. You will likely
 
 
 8
-u/SomeGuyInSanJoseCa avatar
+u/SomeGuyInSanJoseCa  
 SomeGuyInSanJoseCa
 •
-8mo ago
+ 
 No matter how weak you think this take is, this is the correct take.
 
 The only people who have a clear guidelines are perhaps new grads of old. Yeah, maybe when I graduated in the year 2000 and the norm was to spend 3 months on a requirements document.
@@ -293,43 +260,43 @@ They owe it to us to tell us how they're measuring success in order for us to su
 No, this isn't a third rate undergrad degree. You already did "meet X requirements by doing Y" in your undergrad. This is a Master's, where you go beyond that. Success is not a checklist anymore. If you are a GT Master's student, you are above that.
 
 5
-u/Capital-Molasses2640 avatar
+u/Capital-Molasses2640  
 Capital-Molasses2640
 •
-8mo ago
+ 
 This summarizes how I feel about KBAI lmao and I’ve taken ML 😂
 
 
 2
-u/awp_throwaway avatar
+u/awp_throwaway  
 awp_throwaway
 •
-8mo ago
+ 
 In KBAI now (with ML on deck for Spring), and it is a pretty steady churn of deliverables, no doubt. I've mostly been able to keep up (also doing NLP in tandem), but largely have neglected doing the peer reviews or gaming assignments to date out of sheer necessity / time constraints. Hoping I can make up some of those points towards the tail end, but if not, I'm also fine with a B at this point, too, lol
 
 2
 Master10113
 •
-8mo ago
+ 
 If this is due to a hardship (e.g. medical issues) I would say you should speak with the Dean of Students. I know from my own experience the TA/IA team cannot do anything until the Dean looks through / approves but once it was signed off on they were able to give extensions to help catch up.
 
 You mention it's gotten to a point where you are feeling mentally unwell, so I would definitely try this avenue. Besides that I see Georgia Tech has mental health services, although I haven't tried them myself.
 
 1
-u/aja_c avatar
+u/aja_c  
 aja_c
 •
-8mo ago
+ 
 I believe you should still have access to mental health services at GT. I don't have personal experience but they're supposed to be free to students.
 
 1
 
 [deleted]
 •
-8mo ago
+ 
 KowaiPanda
 •
-8mo ago
+ 
 I've had these moments (even slightly now I feel like it taking 2 courses while doing full time work). If you are at your breaking point where it is affecting your health in a negative way, I do think it's wiser to drop and watch over your health. That's what I've done in the past one I started getting pain in my hands from coding so much... Your long term health is more important than one class.
 
 However, if you think there is no adverse affect on your health (esp long term), then you COULD power through. I am working my 9-5 and then studying all the way until around 2-3 am... rinse and repeat. I just suggest to take frequent breaks in between to walk around or call/talk to a friend/family. Don't be so tunnel visioned that you neglect breaks.
@@ -337,10 +304,10 @@ However, if you think there is no adverse affect on your health (esp long term),
 This is just my personal experience, but you know yourself best. Take care!
 
 1
-u/goblinleader avatar
+u/goblinleader  
 goblinleader
 •
-8mo ago
+ 
 Hey OP,
 
 If it makes you feel better, I am dropping my first course after the midterm since I did so bad on the last two projects. The class is AI4R which is supposed to be easy. Seeing so many people finishing their projects within a few days of them starting is so discouraging.
@@ -352,15 +319,15 @@ Also, just being more aware of why you feel a certain way helps too. For example
 Ask yourself "If you treat your friends the way you treat yourself, would you have any friends?". Hopefully, that helps you cope with how you are feeling.
 
 1
-u/awp_throwaway avatar
+u/awp_throwaway  
 awp_throwaway
 •
-8mo ago
+ 
 Specifically with respect to comprehensive/substantive feedback, that’s not a particular strength of the program, given the scaling issue. I’d say that’s probably among the most noteworthy demonstrations of “you get what you pay for” here (and, presumably at peer programs, too). Consider a typical 20-30 to 1 ratio of students to TAs here (and that’s probably on the low end), which isn’t really conducive to providing comprehensive feedback to each student on a consistent basis and returning in a timely manner and so on. They’re also not getting paid a ton begin with, so it’s not like they’re in it for the money, either…
 
 0
-u/nuclearmeltdown2015 avatar
+u/nuclearmeltdown2015  
 nuclearmeltdown2015
 •
-8mo ago
+ 
 Just use AI and get the work done.

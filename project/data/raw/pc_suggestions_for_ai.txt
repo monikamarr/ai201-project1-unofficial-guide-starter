@@ -6,29 +6,13 @@ I'm going into my third semester of OMSCS after taking a two year break. My plan
 I currently have an M1 Pro MacBook Pro with 16GB memory and was thinking of possibly upgrading to a newer M-series Mac, but in the past i've heard that I'll have issues with compatibility when using M-series Macs. Is it recommended to avoid them or should I be fine? My main concern is that 16GB might not be enough for some classes that will involve more AI or ML.
 
 4
-·
-6
-u/MsftSurface avatar
-MsftSurface
-•
-Promoted
-
-Up to $800 cash back on a qualifying trade-in. Find the right Surface Laptop Copilot+PC for you.
-Shop Now
-microsoftstore.com
-Clickable image which will reveal the video player: Up to $800 cash back on a qualifying trade-in. Find the right Surface Laptop Copilot+PC for you.
-Collapse video player
-
-0:00 / 0:00
-
-
 
 
 Comments Section
-u/iustusflorebit avatar
+u/iustusflorebit  
 iustusflorebit
 •
-7mo ago
+
 That computer should be more than enough in terms of power. I did most of the program on a used 2018 Intel MacBook Pro and had no issues. If you need more compute you can always use Colab or AWS.  I will say, for the last project in NLP specifically, it was nice having a desktop PC with a strong-ish GPU for quickly testing things. 
 
 You might run into issues with not having an Intel chip in certain Computing Systems courses, not 100% sure there.
@@ -36,7 +20,7 @@ You might run into issues with not having an Intel chip in certain Computing Sys
 8
 ladycammey
 •
-7mo ago
+
 So, halfway through the program, I've generally found I need either one of two things:
 
 A basic computer does just fine for almost everything in the program, and when it doesn't I can supplement with Google Collab.
@@ -52,7 +36,7 @@ Though to reiterate u/iustusflorebit 's point - if you're planning to take syste
 5
 travisdoesmath
 •
-7mo ago
+
 for the AI specialization, you should be good. I'm almost done with the program on an 16B M2 MBP and haven't needed anything else (I have a linux box with a 3090 GPU that made DL a little more convenient, but it definitely wasn't necessary).
 
 AFAIK, the classes where M-series macs are a problem are more in the Computing Systems track. If you're interested in them as electives, then you may want to consider getting an x86 computer.
@@ -62,18 +46,17 @@ I would not recommend upgrading, your M1 Pro will be more than sufficient.
 3
 misingnoglic
 •
-7mo ago
+
 I did the AI spec with that same laptop with no issues.
 
 2
 probono84
 •
-7mo ago
+
 I'm just starting this spring, but especially for machine learning, aren't people having to basically exclusively use x86? I have an m4 pro 14", but I'm thinking at some point I'll want another used Thinkpad (10th gen Intel or so, like I used for my undergrad). I'm not a huge fan of all the precarious workarounds for apple silicon.
 
 1
-u/SuperSimpSons avatar
+u/SuperSimpSons  
 SuperSimpSons
 •
-7mo ago
 Your run-of-the-mill laptop or desktop should do fine, PC brands like Gigabyte do sell specialized rigs for local AI work, they call them AI TOPs and go for about 7k on Newegg www.gigabyte.com/Consumer/ai-top/?lan=en so if you have the budget and want to have hardware+software for local AI fine-tuning, there's something you can impress your friends with, but like I said in the beginning an ordinary laptop + some cloud-based AI should suffice as well.

@@ -7,14 +7,14 @@ Hi all! The title basically says it all. My professional background is in web de
 Comments Section
 konbinatrix
 •
-5y ago
+ 
 AI definetly and if you can afford another class, ML4T (found the ML part of AI really dry and unappealing).
 
 9
-u/dv_omscs avatar
+u/dv_omscs  
 dv_omscs
 •
-5y ago
+ 
 AI. In my opinion very bad class - lots of busywork, terrible lectures, not-so-great book, weird gradescope limitations in some projects - however, it covers very interesting topics, so it still worth taking a look at; projects are relatively big code-wise and interesting.
 
 IAM - an excellent class with very good lectures, but homework is much higher level than AI. Can be taken over summer. Overlap with AI is not 100%, but it does cover some ML topics that AI does not.
@@ -22,68 +22,68 @@ IAM - an excellent class with very good lectures, but homework is much higher le
 Or: take IAM and skim through an AI course lectures by some other university.
 
 4
-u/camozot avatar
+u/camozot  
 camozot
 •
-5y ago
+ 
 Probably DL is the closest to industry work, but it should absolutely not be the first ML type class one takes.
 
 
 6
 levi97zzz
 •
-5y ago
+ 
 It is close to industry work? In what way?
 
 
 3
-u/camozot avatar
+u/camozot  
 camozot
 •
-5y ago
+ 
 Closest to what is being used for ML in industry (not the only thing but DL is king). More than AI or RL, those are still great courses though. RL is more of a niche that still has a longer way to go, and AI is more classical methods that don't have as powerful of curve fitting ability.
 
 2
-u/comps2 avatar
+u/comps2  
 comps2
 •
-5y ago
+ 
 Why should it not be the first?
 
 
 1
 arborite
 •
-5y ago
+ 
 For one thing, it's expected that you've already taken ML.
 
 5
-u/camozot avatar
+u/camozot  
 camozot
 •
-5y ago
+ 
 Just like anything else, if you go straight to an advanced course you're going to be in survival mode rather than learning mode. Unless you've taken all the calcs and linear algebra, and have at least medium python skills, its too much to actually learn it well and do a nice project without ramping up before the course.
 
 4
 
-1 more reply
+ 
 black_cow_space
 •
-5y ago
+ 
 AI and ML are different things.
 
 AI4R will give you a sense of AI and a bit of ML as well.
 
 2
-u/brgentleman2 avatar
+u/brgentleman2  
 brgentleman2
 •
-5y ago
+ 
 Being time-consuming is really relative. Yes, compared to other classes maybe AI has a higher workload (though it has been watered down recently). But you would take much longer to learn these topics on your own, believe me. And the workload is just for a semester. What do you prefer: "suffer" for 4 months by taking a class that's twice as time-consuming as other classes but learning something useful or taking another class that's not going to be as useful?
 
 0
-u/Realistic-Winter-251 avatar
+u/Realistic-Winter-251  
 Realistic-Winter-251
 •
-5y ago
+ 
 BDHC and DVA cover everything but is more like a bootcamp.

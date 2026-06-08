@@ -4,57 +4,44 @@ I’m ML spec and I’m personally excited to take GIOS and DS in the future. Ot
 5
 ·
 6
-u/shopify avatar
-shopify
-•
-Promoted
 
-YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
-YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
-YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
-YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
-YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
-YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
-shopify.com
-Sign Up
 Comments Section
-u/SomeGuyInSanJoseCa avatar
+u/SomeGuyInSanJoseCa  
 SomeGuyInSanJoseCa
 •
-5y ago
+ 
 Computation Journalism of course.
 
 
 21
-u/TrainFan avatar
+u/TrainFan  
 TrainFan
 •
-5y ago
+ 
 Agreed. This is a great class.
 
 1
-Walmart-Joe
 •
-5y ago
+ 
 Video Game Design. I'm on the fence between IIS and then Game Design after graduating, or self study for IIS to take Game Design as my last class.
 
 7
 [deleted]
 •
-5y ago
+ 
 The reverse of yours. I’m in Computing Systems but I intend to take a bunch of ML courses.
 
 4
 [deleted]
 •
-5y ago
+ 
 Also in ML spec, and already took GIOS and enjoyed it. Plan to take DS as well and HPC.
 
 2
-u/awp_throwaway avatar
+u/awp_throwaway  
 awp_throwaway
 •
-5y ago
+ 
 I'm nominally pursuing comp systems specialization, but plan to use my free elective slots on ML stuff to get more breadth in the field (coming in from a non-EE/non-CE engineering background). Still on my first class currently (GIOS), but ideally I'd like to do:
 
 comp systems (spec): GIOS, HPCA, IHPC, AOS
