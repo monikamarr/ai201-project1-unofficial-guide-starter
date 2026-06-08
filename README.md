@@ -25,20 +25,20 @@ This knowledge is valuable because it helps students make decision on which clas
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | OMS Central |  | https://www.omscentral.com/reviews/recent|
-| 2 | Reddit | |https://www.reddit.com/r/OMSCS/comments/1mf7kay/ai_has_now_been_added_as_a_specialization/ |
-| 3 |Reddit | |https://www.reddit.com/r/OMSCS/comments/kawd2g/order_of_courses_for_ai/ |
-| 4 | Reddit| |https://www.reddit.com/r/OMSCS/comments/1p4reqd/computer_suggestions_for_ai_specialization/ |
-| 5 | Reddit| | https://www.reddit.com/r/OMSCS/comments/14fm1ss/what_is_the_musttaken_ai_course/|
-| 6 |Reddit | | https://www.reddit.com/r/OMSCS/comments/1r8dcqp/how_are_we_feeling_about_ml4t_especially_for/|
-| 7 | Reddit| | https://www.reddit.com/r/OMSCS/comments/qropq7/best_class_to_get_a_sense_of_what_aiml_is_all/|
-| 8 |Reddit | |https://www.reddit.com/r/OMSCS/comments/r6i9l4/what_classes_outside_your_specialization_are_you/ |
-| 9 |Reddit | | https://www.reddit.com/r/OMSCS/comments/18pg1ps/all_courses_ranked_by_difficulty_using_grades_and/|
-| 10 | Reddit| | https://www.reddit.com/r/OMSCS/comments/zojljb/best_first_class_to_take/|
-| 11 |Reddit | |https://www.reddit.com/r/OMSCS/comments/1ldmwpn/feeling_imposter_syndrome_struggling_in_a/ |
-| 12 |Reddit | |https://www.reddit.com/r/OMSCS/comments/1o6k1co/this_class_is_breaking_mesuggestions/ |
-| 13 | Reddit| |https://www.reddit.com/r/OMSCS/comments/1pgo5fs/i_got_out_finished_the_program_after_about_3_years/ |
-| 14 |Reddit | | https://www.reddit.com/r/OMSCS/comments/1lei7sc/is_taking_omscs_nlp_worth_it_if_i_already_took/|
+| 1 | OMS Central | Review site | https://www.omscentral.com/reviews/recent|
+| 2 | Reddit | Review thread |https://www.reddit.com/r/OMSCS/comments/1mf7kay/ai_has_now_been_added_as_a_specialization/ |
+| 3 |Reddit |Review thread |https://www.reddit.com/r/OMSCS/comments/kawd2g/order_of_courses_for_ai/ |
+| 4 | Reddit|Review thread |https://www.reddit.com/r/OMSCS/comments/1p4reqd/computer_suggestions_for_ai_specialization/ |
+| 5 | Reddit| Review thread| https://www.reddit.com/r/OMSCS/comments/14fm1ss/what_is_the_musttaken_ai_course/|
+| 6 |Reddit | Review thread| https://www.reddit.com/r/OMSCS/comments/1r8dcqp/how_are_we_feeling_about_ml4t_especially_for/|
+| 7 | Reddit| Review thread| https://www.reddit.com/r/OMSCS/comments/qropq7/best_class_to_get_a_sense_of_what_aiml_is_all/|
+| 8 |Reddit |Review thread |https://www.reddit.com/r/OMSCS/comments/r6i9l4/what_classes_outside_your_specialization_are_you/ |
+| 9 |Reddit |Review thread | https://www.reddit.com/r/OMSCS/comments/18pg1ps/all_courses_ranked_by_difficulty_using_grades_and/|
+| 10 | Reddit|Review thread | https://www.reddit.com/r/OMSCS/comments/zojljb/best_first_class_to_take/|
+| 11 |Reddit |Review thread |https://www.reddit.com/r/OMSCS/comments/1ldmwpn/feeling_imposter_syndrome_struggling_in_a/ |
+| 12 |Reddit |Review thread |https://www.reddit.com/r/OMSCS/comments/1o6k1co/this_class_is_breaking_mesuggestions/ |
+| 13 | Reddit| Review thread|https://www.reddit.com/r/OMSCS/comments/1pgo5fs/i_got_out_finished_the_program_after_about_3_years/ |
+| 14 |Reddit | Review thread| https://www.reddit.com/r/OMSCS/comments/1lei7sc/is_taking_omscs_nlp_worth_it_if_i_already_took/|
 
 ---
 
