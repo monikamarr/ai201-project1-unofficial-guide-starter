@@ -1,62 +1,24 @@
 Computer Suggestions for AI specialization
 Hi everyone,
-
 I'm going into my third semester of OMSCS after taking a two year break. My plan is to do the AI specialization. For those in the specialization, are there any requirements for hardware or will most laptops/PCs work fine?
-
 I currently have an M1 Pro MacBook Pro with 16GB memory and was thinking of possibly upgrading to a newer M-series Mac, but in the past i've heard that I'll have issues with compatibility when using M-series Macs. Is it recommended to avoid them or should I be fine? My main concern is that 16GB might not be enough for some classes that will involve more AI or ML.
-
-4
-
-
-Comments Section
-u/iustusflorebit  
 iustusflorebit
-•
-
-That computer should be more than enough in terms of power. I did most of the program on a used 2018 Intel MacBook Pro and had no issues. If you need more compute you can always use Colab or AWS.  I will say, for the last project in NLP specifically, it was nice having a desktop PC with a strong-ish GPU for quickly testing things. 
-
+That computer should be more than enough in terms of power. I did most of the program on a used 2018 Intel MacBook Pro and had no issues. If you need more compute you can always use Colab or AWS.  I will say, for the last project in NLP specifically, it was nice having a desktop PC with a strong-ish GPU for quickly testing things.
 You might run into issues with not having an Intel chip in certain Computing Systems courses, not 100% sure there.
-
-8
 ladycammey
-•
-
 So, halfway through the program, I've generally found I need either one of two things:
-
 A basic computer does just fine for almost everything in the program, and when it doesn't I can supplement with Google Collab.
-
 A serious desktop PC with a good GPU for actually messing around with DL models on my own hardware.
-
 The few cases where you'll run into really heavy processing (the tail end of ML, DL if you take it and especially if you decide to do an image-heavy project) you'll want access to a good GPU - but that's also provided both with Collab or the PACE cluster. I have a serious gaming PC and it can be nice to run things locally at times - but it's absolutely not a need.
-
 But IMHO I wouldn't fuss too much about things in between - either get an OK machine and then plan to jump over to collab in those rare cases you're doing heavy workloads, or use the program as an excuse to get a serious gaming PC with a high end GPU for training models on your own hardware - which isn't cost effective, but can be fun if you have the luxury. Very little else you do in the program will actually care how good your specs are.
-
 Though to reiterate u/iustusflorebit 's point - if you're planning to take systems spec classes make sure you can do it on the mac, as I believe some of them may require intel chips.
-
-5
 travisdoesmath
-•
-
 for the AI specialization, you should be good. I'm almost done with the program on an 16B M2 MBP and haven't needed anything else (I have a linux box with a 3090 GPU that made DL a little more convenient, but it definitely wasn't necessary).
-
 AFAIK, the classes where M-series macs are a problem are more in the Computing Systems track. If you're interested in them as electives, then you may want to consider getting an x86 computer.
-
 I would not recommend upgrading, your M1 Pro will be more than sufficient.
-
-3
 misingnoglic
-•
-
 I did the AI spec with that same laptop with no issues.
-
-2
 probono84
-•
-
 I'm just starting this spring, but especially for machine learning, aren't people having to basically exclusively use x86? I have an m4 pro 14", but I'm thinking at some point I'll want another used Thinkpad (10th gen Intel or so, like I used for my undergrad). I'm not a huge fan of all the precarious workarounds for apple silicon.
-
-1
-u/SuperSimpSons  
 SuperSimpSons
-•
 Your run-of-the-mill laptop or desktop should do fine, PC brands like Gigabyte do sell specialized rigs for local AI work, they call them AI TOPs and go for about 7k on Newegg www.gigabyte.com/Consumer/ai-top/?lan=en so if you have the budget and want to have hardware+software for local AI fine-tuning, there's something you can impress your friends with, but like I said in the beginning an ordinary laptop + some cloud-based AI should suffice as well.

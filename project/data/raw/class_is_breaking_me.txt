@@ -1,333 +1,147 @@
 This class is breaking me…suggestions?
 I’ve been consistently submitting assignments and projects late this semester, which is really unlike me. This one class is taking way more time than any other (based on my Chrome and VS Code screen time). I feel like an absolute idiot. It’s consuming all my evenings after work and my weekends, and I haven’t been taking care of myself physically. I’ve asked for help from the TAs, but the responses have basically boiled down to “tough luck.” I feel like I’m drowning. I hate this class so much, but I also really don’t want to drop it. It’s gotten to the point where I feel like I might be mentally unwell. There’s no clear rubric for how things are graded, and as a perfectionist, that’s been driving me insane. I had a somewhat similar situation back in undergrad during COVID, but back then, I had supportive professors and access to mental health services. I was even offered a mental health exception, which I declined, and I eventually pulled through. This time, though, it just feels different. I’m exhausted, constantly behind, and I don’t know how to make this sustainable. Has anyone else gone through something like this? How did you get through it without burning out completely or dropping the class? Also, in past semesters, I had classes with really active Ed discussions, which made a huge difference. If anyone has recommendations for classes like that for next semester, please let me know. I don’t think I could go through something like this again.
-
 edit: Not gonna name the class, and honestly, this could happen with any course that hits at the wrong time. I feel like I don’t get any real feedback on assignments. My grader provides feedback without providing anything personal or actionable, which is laughable given that peer reviews explicitly tell us not to give generic feedback. Yet somehow, they can just say “slight technical issues” and deduct points without explaining what those technical issues actually are. It's as if they are just clicking a rating button...
-
 Edit Pt. 2: I ended up sticking to the class and ended with an A. Hearing everyone's experience on this thread really motivated me to continue to push through. After this post, I decided to try taking care of myself and try allowing myself to spend time on hobbies, which definitely helped. Thank you everyone!
-
-8
 ·
-38
-Comments Section
-u/Outside_Knowledge_24  
 Outside_Knowledge_24
 •
- 
 What is class is this?
-
-
-55
 PeaSierra
 •
- 
 it's this class!
-
-35
-
- 
 goro-n
 •
- 
 You need to say what the class is
-
-28
 [deleted]
 •
- 
 Plot twist: class is AIES
-
-
-39
 Lopsided-Wish-1854
 •
- 
 ROFL, I had the team project of AIES we could not meet the DEI quotas no matter what parameters we put in. One of the guys accidentally didn’t merge our code properly with his, and when it ran, got perfect result. Everyone yelled at once “don’t f. touch it, just commit and push” lol
-
-12
-
- 
 Jtzho
 •
- 
 Yes, been there with RL. The last project was brutal, spent almost 15hours daily on it for weeks and yet still cannot solve it. Also, was doing all these while working plus handling a newborn. I feel like dying everyday.
-
 Edit: it turns out well in the end. Got an A despite not solving it, I guess hardwork pays off.
-
-
-21
-u/swcooke  
 swcooke
 •
- 
 The deepracer project? That one frustrated me to no end but was pretty interesting
-
-
-7
 Jtzho
 •
- 
 Overcooked project.
-
-6
-
- 
 theorizable
 •
- 
 BRO. The final for RL just had me laughing the entire exam. I either didn't study or, I don't know what happened with that. Every question looked like it was asking the same thing. I killed it on the projects though because I really like RL conceptually. But damn, the final was a joke.
-
-2
-u/mechtonia  
 mechtonia
 •
- 
 Some sage advice I saved during my OMSCS adventure:
-
 "I think success in this class is strongly tied to one's mental attitude. Anxiety, fear, and lack of confidence easily lead to burning out. (I'm in the unique position to have seen this pattern rather often the past two years.)
-
 I can't stress enough the need to maintain life balance while taking this class. Some tips to maintain your sanity:
-
 Eat healthily, sleep and exercise regularly. If you're not keeping yourself healthy, you're not only hurting your potential performance in this class but also your potential to enjoy the non-OMSCS aspects of your life.
-
 Don't spend every spare moment working. Life should be worth living. Spend some time every day (even if you have to plan it) doing something for recreation. Take regular days off to rest.
-
 If setting aside time for the above presses you for time, efficiency is key. What can you cut out of your routine to make time for your work, your studies, and your personal needs?
-
 Have someone to talk to. A friend, a significant other, a family member, a therapist: all of these can help you talk out the things that are worrying you, help you focus on what is important, and perhaps offer advice.
-
 Hammering on the theme of "efficiency," remember that hours spent studying != better knowledge of the material. The sole measure of performance in this course is being able to solve problems, so all of your studying should start and end with your ability to do the problem sets. What in your studying regimen helps you solve the problems? What doesn't? Discard what is not helpful.
-
 When working on problems, work on one until you can't proceed any further, and then (and only then) either ask for help or look up a hint. Also consider taking a short walking break and coming back to it with fresh eyes. Maybe even set that problem aside for the day and work on a different problem. Be like water; water doesn't crash through the boulder but rather flows around it.
-
 Unfortunately, our academic system is set up so that failing is stigmatized. Failure is natural and healthy; if you aren't failing, you aren't growing. In an ideal setting, I would love to be able to let everyone keep taking the class until they reach A or B-level performance, but this doesn't fit within the constraints we are given: a semester-based class where everyone receives a letter grade at the end of the term.
-
 Even if you have to retake this class (or 8803-GA when it replaces 6505) in a later semester, it's not the end of the world. When you retake it, you will be better prepared for the challenge. You'll have a clearer understanding of the material and of the strategies that are helpful and unhelpful in meeting that challenge. Persistence and patience are important. If you find this class to be the hardest part of the degree, don't let that discourage you. Let it motivate you to keep your focus on the outcome: the reward for being persistent and overcoming the challenge." - Chris Pryby CS6505 Instructor Spring 2016
-
-
-16
-u/BlackDiablos  
 BlackDiablos
 •
- 
 This could be easily mistaken for advice that would be posted on the 6515 forum in the year 2025, timeless
-
-
-5
-u/srsNDavis  
 srsNDavis
 •
- 
 Yeah this part his a giveaway.
-
 The sole measure of performance in this course is being able to solve problems, so all of your studying should start and end with your ability to do the problem sets.
-
 I mean, HPC comes close but even that's problem solving + acing the correctness and performance on the projects.
-
-2
-
-
-u/6Burgers  
 6Burgers
 •
- 
 what class is this?
-
-14
-u/lulu_fangirl  
 lulu_fangirl
 •
- 
 Just say the class bro
-
-9
 Stejuan
 •
- 
 ML?
-
-
-5
-u/Quabbie  
 Quabbie
 •
- 
 Doesn’t sound like ML since OP mentioned peer reviews.
-
-
-3
 guiambros
 •
- 
 Also the they miss having "active Ed discussions". I can barely keep up with the firehose of posts (not counting the many duplicate and irrelevant questions). And there's Discord as well, which I barely have time to check.
-
-3
 SkilledApple
 •
- 
 If you're talking about ML, there's at least the feedback from the first assignment that can give us an idea of what the rubic would be if we actually had access to one. My reviewer basically went down the list and showed earned/max points for each part of the assignment. Using that, I created a pseudo-rubric for the next assignment and used that to determine my optimal stopping point.
-
 Keeping up with reports, reading assignments, and pre-recorded lectures that feel... tangential... has been a juggling act for sure. I hope you find what works for you!
-
-4
-u/ScratchSF  
 ScratchSF
 •
- 
 You’re not alone in feeling this way. Many OMSCS students hit a point where a course demands far more time and mental energy than expected. But remember: this program is a marathon, not a sprint. In the long run, no one will care how long it took you to finish. What matters is that you finish healthy, grounded, and still curious about what you’re learning.
-
 If you find yourself consistently spending far more hours than the class average or what’s sustainable for you, that’s often a signal to pause and make sure your foundation is solid. Sometimes the best next move isn’t to push harder; it’s to step back, regroup, and come back stronger.
-
 Given that this is affecting your well-being, it may be worth seriously considering a withdrawal this term to give yourself space to recover. You can keep learning at your own pace in the meantime -- working through Andrew Ng’s Machine Learning courses, or Hands-On Machine Learning, or revisiting the ML content more slowly. Those resources will help build a strong base so that when you return, you’ll find the material far more approachable and meaningful. (Base on the comments of others in the replies, I've assumed ML is the course, but that may not be the case. But if is a ML-related course, then the same advice applies. Actually, it can apply to any course, but what you look at in the intervening time might differ.)
-
 While OMSCS courses don’t always list prerequisites, that doesn’t mean they’re entry-level. Without a solid foundation, it can feel like trying to change the wheels on a plane while it’s already rolling down the runway. Slowing down now doesn’t mean you’ve failed; it means you’re making a smart decision to ensure a smoother takeoff next time.
-
-4
-
-u/fishhf  
 fishhf
 •
- 
 It's KBAI right?
-
-4
-
-3 more replies
 SanSanNiu
 •
- 
 what class？
-
-3
-u/SomeGuyInSanJoseCa  
 SomeGuyInSanJoseCa
 •
- 
 It’s gotten to the point where I feel like I might be mentally unwell.
-
 I'm truly baffled on why anyone would sacrifice their mental health to avoid getting a "W" in one class. How are you even debating it? Just drop it. It's the easiest decision around.
-
 There’s no clear rubric for how things are graded, and as a perfectionist, that’s been driving me insane.
-
 Guess what? That's life as a Software Engineer. If a lack of rubric is causing distress - you're going to hate this being your full-time job.
-
 I’ve asked for help from the TAs, but the responses have basically boiled down to “tough luck.”
-
 Guess what? That's life as a Software Engineer as well.
-
-
-3
 YoiTzHaRamBE
 •
- 
 This is a weak take.
-
 We pay GA Tech for educational services and they grade our work as we work towards a degree. They owe it to us to tell us how they're measuring success in order for us to succeed.
-
 As a SWE, you should absolutely be told what success looks like. You will likely not be told instructions on how to solve a problem, but you will be told what to expect when you've found the right solution. Anything else is bad management, whether product or engineering
-
-
-8
-u/SomeGuyInSanJoseCa  
 SomeGuyInSanJoseCa
 •
- 
 No matter how weak you think this take is, this is the correct take.
-
 The only people who have a clear guidelines are perhaps new grads of old. Yeah, maybe when I graduated in the year 2000 and the norm was to spend 3 months on a requirements document.
-
 Now, if you have a rubric for success that is clearly defined, throw it into the eval portion of the agentic Ai and have it take over for 90% or throw it to the Bangalore group.
-
 I am a team lead for about 3 projects, and yes, we have certain projects with clearly defined requirements: Code coverage greater than 90%. Have this extension match this design/wireframe: Those with clear defined requirements are done by my contractors in Bulgaria.
-
 I had 3 interns under me last summer, and I gave them projects even less defined than ML projects - and yes, they had to present what worked and what didn't.
-
 Two were great - they defined what success was. They took fuzzy requirements and looked at industry standards and gathered feedback from others and defined what to do. One wasn't that good and constantly needed hand holding to deal with the ambiguity. He did not get a return offer (we pay about $200K for a new grad, so we're not a fly-by-night company).
-
 That's just modern workflow. The days of a 40 day PRD are over. Developers get a one pager from the PM and are told to go for it in modern day Sprint.
-
 A US based software engineer will absolutely need to handle ambiguity and will need to seek out what success looks like independently and works towards it. And that is why there's ambiguity. To train you for it.
-
 I am assuming that the class is ML, and I think Charles Isbell purposely said he made in ambiguous because that's how it is in the real world. This isn't laziness. This is a deliberate choice.
-
 Software engineering in this day and age, in the US, is partially requirements gathering, partial feel, partial art.
-
 Sure, there may be jobs like WITCH where you follow a guideline and just roll with it. And yeah, you could graduate from WGU, take that, and get that, make $150K a year for the rest of your life and be happy.
-
 But this is a top 10 grad school. You should be Staff/Principal in 10 years. You should be looking towards $1 million / year jobs. Not code monkey jobs.
-
 They owe it to us to tell us how they're measuring success in order for us to succeed.
-
 No, this isn't a third rate undergrad degree. You already did "meet X requirements by doing Y" in your undergrad. This is a Master's, where you go beyond that. Success is not a checklist anymore. If you are a GT Master's student, you are above that.
-
-5
-u/Capital-Molasses2640  
 Capital-Molasses2640
 •
- 
 This summarizes how I feel about KBAI lmao and I’ve taken ML 😂
-
-
-2
-u/awp_throwaway  
 awp_throwaway
 •
- 
 In KBAI now (with ML on deck for Spring), and it is a pretty steady churn of deliverables, no doubt. I've mostly been able to keep up (also doing NLP in tandem), but largely have neglected doing the peer reviews or gaming assignments to date out of sheer necessity / time constraints. Hoping I can make up some of those points towards the tail end, but if not, I'm also fine with a B at this point, too, lol
-
-2
 Master10113
 •
- 
 If this is due to a hardship (e.g. medical issues) I would say you should speak with the Dean of Students. I know from my own experience the TA/IA team cannot do anything until the Dean looks through / approves but once it was signed off on they were able to give extensions to help catch up.
-
 You mention it's gotten to a point where you are feeling mentally unwell, so I would definitely try this avenue. Besides that I see Georgia Tech has mental health services, although I haven't tried them myself.
-
-1
-u/aja_c  
 aja_c
 •
- 
 I believe you should still have access to mental health services at GT. I don't have personal experience but they're supposed to be free to students.
-
-1
-
 [deleted]
 •
- 
 KowaiPanda
 •
- 
 I've had these moments (even slightly now I feel like it taking 2 courses while doing full time work). If you are at your breaking point where it is affecting your health in a negative way, I do think it's wiser to drop and watch over your health. That's what I've done in the past one I started getting pain in my hands from coding so much... Your long term health is more important than one class.
-
 However, if you think there is no adverse affect on your health (esp long term), then you COULD power through. I am working my 9-5 and then studying all the way until around 2-3 am... rinse and repeat. I just suggest to take frequent breaks in between to walk around or call/talk to a friend/family. Don't be so tunnel visioned that you neglect breaks.
-
 This is just my personal experience, but you know yourself best. Take care!
-
-1
-u/goblinleader  
 goblinleader
 •
- 
 Hey OP,
-
 If it makes you feel better, I am dropping my first course after the midterm since I did so bad on the last two projects. The class is AI4R which is supposed to be easy. Seeing so many people finishing their projects within a few days of them starting is so discouraging.
-
 Having to withdraw from the course along with some RL stuff, I was really depressed. Talking to my partner about it and recounting all the wonderful things we have in life really helps.
-
 Also, just being more aware of why you feel a certain way helps too. For example, I grew up poor. I want to be successful and achieve all of these goals. So I overwhelm myself with a lot of expectations to the point of analysis paralysis. And when I don't meet the expectations I set for myself, I get extremely depressed. So now I am overwhelmed and depressed.
-
 Ask yourself "If you treat your friends the way you treat yourself, would you have any friends?". Hopefully, that helps you cope with how you are feeling.
-
-1
-u/awp_throwaway  
 awp_throwaway
 •
- 
 Specifically with respect to comprehensive/substantive feedback, that’s not a particular strength of the program, given the scaling issue. I’d say that’s probably among the most noteworthy demonstrations of “you get what you pay for” here (and, presumably at peer programs, too). Consider a typical 20-30 to 1 ratio of students to TAs here (and that’s probably on the low end), which isn’t really conducive to providing comprehensive feedback to each student on a consistent basis and returning in a timely manner and so on. They’re also not getting paid a ton begin with, so it’s not like they’re in it for the money, either…
-
-0
-u/nuclearmeltdown2015  
 nuclearmeltdown2015
 •
- 
 Just use AI and get the work done.

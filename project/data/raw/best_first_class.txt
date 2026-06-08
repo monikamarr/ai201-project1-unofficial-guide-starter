@@ -1,179 +1,66 @@
 Best first class to take
 Hello everyone,
-
 I will be starting the program in January, and I am still not sure what first course to take. I plan on doing the computing systems concentration. Ideally I'd like to take a course that has a low workload so I can ease into the program. Which courses do y'all recommend?
-
-8
 ·
-18
-u/Michelob-ULTRA  
 Michelob-ULTRA
 •
-
-
-
-
-Comments Section
-u/throwaway12245671  
 throwaway12245671
 •
- 
 You will most likely not get into SDP, AIES, Digital Marketing. I would choose HCI. The class is interesting and you will know what kind of workload omscs expect from you.
-
-
-17
 SirBearOfBrown
 •
- 
 Glad I read this. I, too, am starting in January, but was planning on SDP being my starting course. I’ll look into HCI and maybe have another backup just in case things fill up!
-
-2
-u/wynand1004  
 wynand1004
 •
- 
 First, welcome to the program!
-
 Second, this question comes up a lot at the beginning of each term. You might want to search before posting. Here are a few:
-
-https://www.reddit.com/r/OMSCS/comments/xyd0h1/current_and_former_students_what_classes_would/
-
-
-https://www.reddit.com/r/OMSCS/comments/n9o677/which_of_these_classes_do_you_think_is_best_for/
-
-
-https://www.reddit.com/r/OMSCS/comments/w26pxb/fall_2022_first_class/
-
-
-https://www.reddit.com/r/OMSCS/comments/wv8ery/any_other_good_first_classes_to_take_for_new/
-
-
-https://www.reddit.com/r/OMSCS/comments/wsk8gj/6200_or_6340_as_a_first_class/
-
-
-https://www.reddit.com/r/OMSCS/comments/wxv675/need_help_choosing_classes_for_first_semester/
-
-
-https://www.reddit.com/r/OMSCS/comments/8fvnid/what_are_classes_students_should_avoid_for_their/
-
-
-https://www.reddit.com/r/OMSCS/comments/zojljb/best_first_class_to_take/
-
-
 Good luck with your studies!
-
-15
 frog-legg
 •
- 
 GIOS. Systems is life.
-
-
-10
-u/wynand1004  
 wynand1004
 •
- 
 Ideally I'd like to take a course that has a low workload so I can ease into the program.
-
 Don't take GIOS. Well, take it, but not as a first course if your priority is a low workload.
-
 REF: https://www.reddit.com/r/OMSCS/comments/i37h3d/gios_post_mortem/
-
-
-8
-u/ComradeGrigori  
 ComradeGrigori
 •
- 
 It depends on your background and how much time you're willing to invest before the course starts.
-
 I skimmed the K&R book and did some LeetCode practice in C a few weeks before the class started. Having prior experience with multi-threading helped a lot.
-
-3
-
 [deleted]
 •
- 
-
-
-u/flight19  
 flight19
 •
- 
 I’m also starting next month and have narrowed it down to HCI, Computer Networks, or Intro to Information Security.
-
-
-6
 plintervals
 •
- 
 Intro to Info Sec was a fun class, just finished it up this semester. Many people seemed to struggle with the web security project, but if you have any background in web, it's pretty easy. The other projects were also fun and interesting, so I'd recommend it if you're looking to delve into the topic. Then Network Security would be pt 2 of that class
-
-2
 ALoadOfThisGuy
 •
- 
 HCI will make all of the things you don’t know about OMSCS very clear quickly and get you up to speed on the expected workload and writing requirements. It’s a great class that will give you a good base for success in the rest of your classes. 0 code though so be prepared for that.
-
 EDIT: I’m through four classes and have taken HCI and IIS, heard CN is “easy” but haven’t taken it.
-
-3
 frog-legg
 •
- 
 Were you able to get in to CN or IIS? Those fill up rather quickly.
-
-
-1
-u/flight19  
 flight19
 •
- 
 My time ticket isn’t up yet, but I noted they all have enormous wait lists. But that’s also why I wanted to have several choices.
-
-2
-u/JVRCloud  
 JVRCloud
 •
- 
 I suggest taking GIOS or another mid-difficult course if you have time to prepare for it. Lots of students start with easy courses and after 3-4 courses realize they can’t handle the more difficult courses and drop out.
-
-
-5
-u/Kevin_Smithy  
 Kevin_Smithy
 •
- 
 Things like this make me wonder if I should just stay at Kennesaw State where I've completed the transition to CS foundation courses. I could start the actual master's degree classes at KSU next semester or start the OMSCS at Georgia Tech. I did do pretty well in the foundation courses at KSU, but KSU and GT are very different schools. I just want to have the best chance of completing the degree, wherever I go.
-
-4
-u/smelborp_for_preside  
 smelborp_for_preside
 •
- 
 ml4t, great easy class to start with
-
-4
-
 •
- 
 difficulty all depends on background. i recommend jumping in the deep end with what you are interested in. I also recommend reading the reviews since it might the case that the class is a topic you are interested in but is poorly run or designed.
-
 lowest workload class i've had through out the entire program was Software Architecture & Design. but i found the UML portion to be incredibly tedious.
-
-2
 laymancs
 •
- 
 I did 6675 as my first course Pretty low workload and good topics to cover as an intro to the masters
-
-0
 cgi-joe
 •
- 
 I can't speak for computing systems, since I've focused on Interactive Intelligence, but I think KBAI is a really nice introduction to the program - I think any of the David Joyner classes would be great.
-
 But as others have mentioned, it is all based on your background, what interests you, and how much you want to be challenged. Read reviews online (like omscentral), but always with a grain of salt - everyone's skills, backgrounds, and experiences vary. I've taken KBAI, AI4R, ML4T, AI, Game AI, HCI and RL and have yet to have a negative overall experience from any course - they've all been great. Take courses you're passionate about learning about, read/prep for the prerequisites, and you should be good.
-
-1

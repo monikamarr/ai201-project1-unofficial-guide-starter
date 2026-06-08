@@ -1,290 +1,121 @@
 AI has now been added as a specialization (formerly II)
 For anyone who was waiting for an update or wondering about the situation.
-
 At least that's what it says in the orientation doc for Fall 2025.
-
-124
 ·
-63
-u/TemporalTechnologies  
 TemporalTechnologies
 •
-Comments Section
 johndee2020
 •
- 
 Yes I am specializing in that and you best believe I'll be slapping it on my resume !!
-
-
-48
-u/BuckyUnited  
 BuckyUnited
 •
- 
 But I think you’re too late to get that $100 million dollar offer from Meta.
-
-16
-u/awp_throwaway  
 awp_throwaway
 •
- 
-
-
-7
-u/Goofy_Goose_00  
 Goofy_Goose_00
 OP
 •
- 
 Same‼️🗣️💯
-
-7
-
- 
-u/st45st23  
 st45st23
 •
- 
 Fall 2025 Orientation Document
-
 The question is when does that take effect?
-
 Will it be for all transcripts including alumni?
-
 Will it be for all active students, students that haven't graduated as of fall 2025?
-
 Only students that are using the Fall 2025 catalog and after?
-
-14
-u/crjacinro23  
 crjacinro23
 •
- 
 Will this reflect on the transcript for those previous graduates before Fall 2025?
-
-
-12
-u/awp_throwaway  
 awp_throwaway
 •
- 
 I doubt it, but I suppose that remains to be seen. But it's relatively rare for these sorts of things to apply retroactively; more typically, a given transcript, degree, etc. reflects a "snapshot" at a given point within the institution/program.
-
-5
-u/OpenAI  
-u/OpenAI
 •
-
 Lopsided-Wish-1854
 •
- 
 Finally making some business sense.
-
 PS: https://omscs.gatech.edu/sites/default/files/documents/Orientation%20Documents/Fall%202025%20Orientation%20Document.pdf
-
 ........ The following “Areas of Specialization” are available through the OMSCS program:
-
 ● Computational Perception and Robotics
-
 ● Computer Graphics
-
 ● Computing Systems
-
 ● Human-Computer Interaction
-
 ● Artificial Intelligence (formerly known as Interactive Intelligence)
-
 ● Machine Learning
-
-8
-
 [deleted]
 •
- 
-u/SecretSquirrelTech  
 SecretSquirrelTech
 •
- 
 I just checked in OSCAR and it's still in as II there, I wonder when that change will process.
-
-7
-u/adobe  
-u/adobe
 •
 Sad-Sympathy-2804
 •
- 
 Man, II has really come a long way. I still remember scrolling through posts here a few years back, people were seriously trashing the II track, saying how “ridiculous” it was just because it didn’t require GA. 😂
-
 Now? No one’s really talking about that anymore, probably bc they added HCI, which kinda became the new “gatekeeping” specialization target instead.
-
 And with the name change, I feel like it will become the most popular specialization in OMSCS.
-
-11
-
-3 more replies
-u/Peppington  
 Peppington
 •
- 
 This is pretty timely for me and now a bit stuck on what to do.
-
 My expected graduate date is Spring 26. For reference I work in Data Science already and have a MS in Statistics.
-
 I’m in the ML track and my last class in the Spring Semester will be GA. I actually will have all the requirements met for II/AI with the exception of swapping out GA for SDP which I was already taking this Fall.
-
 To me it seems like a win/win to switch to the AI track if the requirements are the same. More marketable concentration in 2025 and don’t have to take GA while also not needing to extend my program out
-
-4
-
-2 more replies
 sdkompiler
 •
-
 Currently in the ML specialization and I've taken HCI, AI, ML4T, ML, SDP and currently DL and GIOS.
 I just found out about the AI specialization now so if I switch, does it mean I can take any other classes for my last 3? It looks like I've satisfied the core requirements for AI and I think I'd prefer to have this on my resume lol
-
-
-2
-u/Goofy_Goose_00  
 Goofy_Goose_00
 OP
 •
 Yup G. You've taken what's needed. Now just chill and finish the degree with any 3 with a "Specialization in Artificial intelligence" ‼️🗣️🔥🔥
-
-2
-u/iustusflorebit  
 iustusflorebit
 •
- 
 I already petitioned to graduate with the ML spec for 2025 but with this change I'd honestly rather just do AI. I can graduate with either assuming I get one more filler class for AI. Does anyone know if I can get that changed given that I've already petitioned? Will my degree show as an AI spec?
-
-
-3
 CameronRamsey
 •
- 
 Just list AI on your resume. No employer will request your transcripts then disqualify you because it says machine learning haha
-
-
-8
-u/iustusflorebit  
 iustusflorebit
 •
- 
 My main concern is getting out of GA lol
-
-3
-
-3 more replies
-u/Suitable-Fee8659  
 Suitable-Fee8659
 •
- 
 AI without graduate algorithms is catastrophic.
-
 I wonder if they're gonna change the names of any other specializations..
-
-
-8
 CameronRamsey
 •
- 
 The hand wringing about GA will never not be the most annoying part of this sub. It is literally material covered in most undergrad programs.
-
- I have to imagine you people are career switchers if you’re this worried about whether a masters program covers algos. I personally would be more worried about my program title being switched to a buzzword associated with a market bubble.
-
-
-9
-u/SnooFloofs8691  
+I have to imagine you people are career switchers if you’re this worried about whether a masters program covers algos. I personally would be more worried about my program title being switched to a buzzword associated with a market bubble.
 SnooFloofs8691
 •
- 
 Agreed. Any CS masters worth it's salt should contain GA. It's an option in II (now AI) spec.
-
-3
-
- 
-
-2 more replies
-u/Goofy_Goose_00  
 Goofy_Goose_00
 OP
 •
- 
 There's plenty of other ways to get the same level, if not more, knowledge.
-
 All without the stress of getting OSI violations.
-
 So I don't think it's bad at all, as long as we do our due diligence.
-
-10
-
-9 more replies
-
-2 more replies
 skesar3
 •
- 
 Where do you see it? I don’t see the website updated.
-
-
-1
 skesar3
 •
- 
 I see it in the orientation document.
-
-3
-
- 
 bootypic_jpg
 •
- 
 what if i graduate this fall? can i still get those?
-
-
-1
 mcjon77
 •
- 
 It doesn't hurt to ask. If not, would you be willing to delay your graduation a semester?
-
-2
-
-2 more replies
-u/nileconte  
 nileconte
 •
- 
 What it was formerly?
-
-
-1
-u/Goofy_Goose_00  
 Goofy_Goose_00
 OP
 •
- 
 It is now Artificial intelligence, formerly was Interactive Intelligence.
-
-1
-
-2 more replies
 8aller8ruh
 •
- 
 Wasn’t Machine Learning already a specialization???
-
-
-1
-u/Goofy_Goose_00  
 Goofy_Goose_00
 OP
 •
- 
 Machine Learning still is.
-
 Now Artificial Intelligence (used to be Interactive Intelligence) is also one. Just a name change.
-
-1

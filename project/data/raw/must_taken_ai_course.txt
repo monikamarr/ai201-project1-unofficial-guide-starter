@@ -1,172 +1,51 @@
 what is the must-taken AI course?
 If I want to take only one AI course, and learn the most about AI, which one would you recommend? I was thinking about AI, but I saw some reviews saying a lot of the techniques in the course are outdated. Besides there are a lot of chaos in the exam grading and projects. So that sort of pushed me away. Then I considered KBAI. But I heard the course focusing a lot on writing reports, which I am not quite interested in. I am also considering Game AI. The review rating is quite high. But it sounds too specialized. Any suggestion?
-
 ---------------------------------
-
 Thank you all for sharing your thoughts. And many suggested DL/ML/NLP. Yes I did consider them as well. I just put them under my ML category. I might only take DL and NLP. I heard ML requires a lot of report writing and grading rubric is not quite clear. So i am not considering ML course.
-
-16
-·
-20
-Comments Section
-u/Odd_Fly_9223  
 Odd_Fly_9223
-•
- 
 From your list, I have taken AI, Game AI, and KBAI. In terms of difficulty (IMO) AI > KBAI > Game AI.
-
 To be honest I liked all of them, but of the three, I learned the most in AI. I personally don't think the criticisms of AI posted online are valid. It is a time consuming class and can be difficult, but it's a great survey of AI topics. The projects can be difficult, but I don't recall the grading being chaotic at all. The "chaos" in the exams amounted to a few minor corrections in the exam questions over the week long period that you have to complete the exams.
-
 I have noticed that just about every moderately difficult course in the program is bound to have those types of negative reviews.
-
 If you want a broad survey of AI topics, I would recommend you take AI. If you are more interested in machine learning specifically, ML is another class to consider.
-
-
-21
-[deleted]
-•
- 
 I was in AI last semester.
-
 I'd considered 20+% of the midterm exam questions simply being dropped because they were so poorly written and ambiguous that the TA's didn't think they could be salvaged a valid criticism of the class and an great example of 'exam chaos'
-
 A rogue TA also tried to change the class grading scheme for the final at the eleventh hour. This was after the drop date (which is in violation of GT policy). 24 hours of panic and chaos ensue for the final because the grade you needed was being increased. Watched the class desperately try to explain that he must be mistaken on Ed. The TA politely called all each student on the Ed thread stupid for telling him he was in the wrong and never apologized after his superiors later corrected him.
-
-
-5
-u/Odd_Fly_9223  
 Odd_Fly_9223
-•
- 
 A rogue TA also tried to change the class grading scheme for the final at the eleventh hour.
-
 How did they try to change the grading scheme?
-
-1
-
- 
-u/wynand1004  
 wynand1004
-•
- 
 I do think the criticisms of AI are valid. The issues with exams persist across semesters - I've taken it three times and nothing is improved. That said, like you, the grading issues didn't bother me all that much and I did learn a ton.
-
 However, it is a very time consuming course - there is a lot of frustration involved. A lot of this frustration could be avoided with a little tweaking of the course content (in my opinion). But, if you want to learn about classical AI, it's the course to go to. The OP should be sure to meet the prerequisites. I wrote a bit about how I'd prepare here: https://www.reddit.com/r/OMSCS/comments/147cgsq/comment/jo2gfga/
-
 I also enjoyed KBAI and Game AI. KBAI was my first course. I took Game AI later after having taking the first half of AI twice - there is a bit of overlap in the topics covered.
-
-
-8
 TheCamerlengo
-•
- 
 Why have you taken it three times? Or did you drop it twice, only completing it the final time?
-
-6
-
- 
 Sirtato
-•
- 
 Thanks for the insight! Do you think AI is a hard prerequisite for Game AI and KBAI? I’m working on an indie game and would love to jump into Game AI, but AI is a prerequisite
-
-
-2
-u/Odd_Fly_9223  
 Odd_Fly_9223
-•
- 
 I did take AI before Game AI, but I don't personally think it's a hard prerequisite. In Game AI they explain most of the concepts in a self contained way.
-
-5
-u/wynand1004  
 wynand1004
-•
- 
 I wouldn't say it's a prerequisite. The first two units of AI overlap with Game AI (BFS, DFS, Djikstra, and A*), but if you're already familiar with those, you'll do just fine. The real challenge in Game AI comes from learning Unity and C# (if you're not already familiar).
-
-2
 theGoldenRain
-•
- 
 Since you will only take 1 AI course, I would take a more broad AI course like AI, which also covers many topics like Machine Learning, Computer Vision, etc. The reviews are quite subjective.
-
-7
-u/Mental-Work-354  
 Mental-Work-354
-•
- 
 I did the ML spec and all my electives were ML based. Would recommend DL for the best bang for your buck but RL was my personal favorite. If you’re worried about workload or lack of background ML4T is a good lightweight overview of the field.
-
-
-3
-u/spicychiaseed  
 spicychiaseed
-OP
-•
- 
 Thanks. Yes DL and NLP are what I am planning to take from ML track.
-
-
-1
-u/Mental-Work-354  
 Mental-Work-354
-•
- 
 Oh you’re differentiating ML from AI I guess I misunderstood, I’d recommend thinking of those interchangeably tbh. If you’re dead set of taking an AI class I took AI4R and that was interesting and somewhat useful for AV ML interviews
-
-2
-u/srsNDavis  
 srsNDavis
-•
- 
 Game AI concepts are pretty much similar to those you'd see in KBAI or AI (with the exception of some specifics like navmeshes). The projects may be related to a game world, but most of the concepts and AI techniques are generic enough to find applications in other domains. If you want to do fun projects, you should not view Game AI negatively, specifically because it is not 'too specialised'.
-
 If you're not interested in writing too many papers, avoid KBAI and ML (though they are arguably courses that will teach you a lot). KBAI topics are similar to those you'd cover in AI, but KBAI leans more towards the expert systems kind of AI (in the term project).
-
 AI (6601) is notorious for challenging exams and coding assignments, but it is just that. Don't double it up if you take it, but prefer it over RL, DL which are more focused on specific AI techniques if you only intend to take one AI course.
-
-
-3
-u/spicychiaseed  
 spicychiaseed
-OP
-•
- 
 expert systems kind of AI
-
 Thank you. what is expert systems kind of AI ?
-
-
-1
-u/srsNDavis  
 srsNDavis
-•
- 
 Think MYCIN or DENDRAL. The Stefik book (Knowledge Systems) - an optional reading in the class - focuses on this type of AI. The lectures follow Winston's AI text more closely though.
-
-1
-[deleted]
-•
- 
 You will learn the most about AI in AI. AI even covers KBAI. Most classes here cover "traditional" concepts. I wouldn't say "outdated" but odds are you won't really find anything "cutting edge".
-
 Game AI is a good class in that it'll cover a lot of the AI concepts but in a way that might be a bit more fun and quite a bit less intensive than AI.
-
 I would just skip KBAI. Check out the lectures if you are interested but I found them to be quite a bit disconnected from the actual projects. A good portion of the writing felt like busy work.
-
-2
-u/spicychiaseed  
 spicychiaseed
-OP
-•
- 
 Thank you for sharing your thoughts u/Odd_Fly_9223 and u/theGoldenRain
-
-1
 TheCamerlengo
-•
- 
 Maybe add to your consideration ML, DL, or the new NLP or something from the IYSE side.
-
-1
