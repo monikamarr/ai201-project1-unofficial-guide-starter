@@ -1,0 +1,345 @@
+I got out - finished the program after about 3 years
+Took last final exam this weekend. Officially done program, assuming I don’t fail my exam and the ungraded assignments
+
+Here’s the breakdown of classes I took and my thoughts:
+
+Fall 2022: ML4T. Grade: A. Thoughts: OK class. Not as heavy on ML as I would like.
+
+Spring 2023: RAIT. Grade: Withdrew. Thoughts: Didn’t seem like a useful class. Had some health issues that resulted in me dropping the class
+
+Summer 2023: SDP. Grade: A. Thoughts: interesting class. Group project was ok. Got to code in Kotlin. Didn’t like the testing assignments due to the subjectiveness of it by TAs
+
+Fall 2023: ML and AIES. Grade: A for both. Thoughts: Doubled up in order to make up for RAIT drop. Took ML after Isbell left, first semester where they gave an FAQ page. Still hard class but learned a ton and understood analysis of ML algos and datasets better. AIES was barely a real class. Spent max 2hrs on it a week and got a 98.
+
+Spring 2024: BD4H and CN (dropped CN). Grade: A. Thoughts: I thought BD4H was really cool. I thought CN was boring. BD4H taught me a lot about spark and data engineering
+
+Summer 2024: Special projects. Grade: A. Thoughts: Did a special project for NLP with a professor. After talking to her and working for the summer, got approval to do a capstone with her for LLMs and summarization. Project was cool and again, led to me doing a capstone
+
+Fall 2024: masters project, first term. Grade: A. Thoughts: Was great. I did a comparison of OSS LLMs and commercial LLMs to fully check the scope of industry for the task and presented my findings. Set the stage for the next term to create an application
+
+Spring 2025: masters project, second term (6 units). Grade: A. Thoughts: I took the last 6 units of my class at once. I built a full stack app for LLMs and summarization for my project. Got a lot of experience. Managed to get third author on a paper that spun off as a result of the summarization landscape we had been reviewing.
+
+Summer 2025: NLP. Grade: A. Thoughts: Honestly I hyped up this class in my head and was kind of a let down. Content was cool. Most of the homework was really easy and shallow level but then the final assignment was going 90 mph. The midterm was absolutely dumb with TAs grading it very strictly. Final exam was much more reasonable.
+
+Fall 2025: KBAI. Projected Grade: A. Thoughts: I was originally in the ML spec but didn’t want to deal with GA after that infamous semester so I switched to AI spec a few semesters ago so KBAI is my last class. Given the final grades for this class is not yet live, I’m reserving judgement of the class (maybe me just being paranoid but I’ll update post once grades are posted).
+
+Feels really good to be done with the program. I’m debating doing a D.Eng but it’s up in the air how much my company will actually cover.
+
+To those still in the program, there’s a light at the end of the tunnel.
+
+134
+·
+53
+u/codecademy avatar
+codecademy
+•
+Promoted
+
+This ad is for your future. Invest in Codecademy.
+Learn More
+codecademy.com
+Thumbnail image: This ad is for your future. Invest in Codecademy.
+Comments Section
+Tine00
+•
+6mo ago
+Congrats on finishing !! May I ask how you got the masters projects? Was that on the back of the special projects with a professor or separate?
+
+
+20
+devine_comedy
+•
+6mo ago
+You can do a project through HAAG, start by applying to research projects (dr.Lytle sent an email last week) you take a 8903 course, based on your performance, you get a chance to continue working on the same project for two more semesters (CS6999 courses)  Then they covert the 8903 to a 6999 and you get the full project credit (3 semesters) 
+
+6
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+So the prof I did the special project with, I talked to them about a new project they had planned and was able to get approval to do the masters project with her
+
+4
+u/FifteenEighty avatar
+FifteenEighty
+•
+6mo ago
+So you took 7 courses and did 3 semesters of the masters projects? That's very interesting, I didn't realize that was a potential path.
+
+
+15
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+The caveat is for the 6999 you have to find a prof to do it with. For special projects, I signed up through the email Dr lytle sends out and joined HAAG
+
+10
+Nick337Games
+•
+6mo ago
+Congrats!! Huge accomplishment. Also took KBAI this semester, curious on your updated thoughts
+
+7
+u/Yyz_chill avatar
+Yyz_chill
+•
+6mo ago
+Were the summer courses compressed/accelerated?
+
+
+6
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+I can’t speak for SDP. I think NLP was slightly condensed.
+
+5
+
+1 more reply
+u/OHSU avatar
+u/OHSU
+•
+Promoted
+
+Gain hands-on clinical experience with our amazing local and regional healthcare partners!
+More Degrees
+More Programs
+More Scholarships
+More Locations
+pages.ohsu.edu
+Learn More
+skyhippie
+•
+6mo ago
+Did you work while taking it or did you focus full time on the program?
+
+
+4
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+I worked. I’m currently a senior AI engineer
+
+
+16
+im_a_lost_child
+•
+6mo ago
+congrats! any reason you decided to get a master when your already a senior engineer? or just want it for the sake of it?
+
+5
+
+3 more replies
+u/Beautiful_Golf_742 avatar
+Beautiful_Golf_742
+•
+6mo ago
+That's honestly stunning that you finished it in 3 years. As for considering a Doctor's degree in engineering, I would consider if you are strongly interested in research and from what I've heard, you have to consider yourself the expert as to whatever you're researching about in which does come towards research. I'd personally think of other factors that values your perception of that degree like how you need to complete for a doctor's degree, does it provide better pay than other degrees with the given time for Bachelor's, Master's and Doctor's.
+
+You have more experience than me, I'm a 2nd year EE at tech, but so far in terms of engineering, I would only consider far too much for Masters' just because there typically is a substantial higher pay when investing in time for 1-2 years. Doctor's however and I could be wrong depends on the time and not all Doctor's program takes the usual 2 years and the median pay in my opinion doesn't justify the amount of time invested for a Doctor's degree based on some data I saw, but that was years ago so it could change and you should probably do quick, personal research to see where you and your values stand at wanting for a Doctor's degree. I personally would recommend a Master's as it's least timely invested yet provides a big difference in pay in industries based on what I saw.
+
+Hope you figured it out what you want in your best interest.
+
+4
+u/mruchann avatar
+mruchann
+•
+6mo ago
+I wonder what percent of the students are working full-time. Any guesses according to your observation?
+
+
+2
+scottmadeira
+•
+6mo ago
+This is designed to be a part time program. The vast majorityoy are employed full time.
+
+2
+
+3 more replies
+
+2 more replies
+u/whyareell avatar
+whyareell
+•
+6mo ago
+I have been thinking about a D.Engg as well, though I am unlikely to actually do it coz I have a more interesting second (third?) Masters I am eyeing after OMS is done. Would love to hear if you actually go down the path of D.Engg - which University, what's the experience like, etc.
+
+
+2
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+I’m looking at GW university since it lets me do it while working
+
+
+2
+u/whyareell avatar
+whyareell
+•
+6mo ago
+Gotcha! I also came across similar programs from John Hopkins and Purdue (can be done while working, but John Hopkins might require one trip to campus for final presentations). I haven't done a comparison at all, but sharing in case you wanna look into those.
+
+2
+
+1 more reply
+u/Aramco_Official avatar
+u/Aramco_Official
+•
+Promoted
+
+In football, a single insight can change the game.​ In energy, small advances can improve operations.​ At Aramco, innovation and applied technology helps us deliver reliable energy at a global scale. Discover how at aramco.com/FIFA
+Learn More
+aramco.com
+Clickable image which will reveal the video player: In football, a single insight can change the game.​ In energy, small advances can improve operations.​ At Aramco, innovation and applied technology helps us deliver reliable energy at a global scale. Discover how at aramco.com/FIFA
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+AnujisBerg
+•
+6mo ago
+You're a senior AI engineer but you still decided to go through with this program? Were you in this field before you started?
+
+
+2
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+I started the program as a junior engineer focused on software engineering and some AI. I became senior engineer during my time in the program
+
+8
+u/wynand1004 avatar
+wynand1004
+•
+6mo ago
+Congrats and welcome to the ranks of the alumni!
+
+2
+u/Tight_Inspector6315 avatar
+Tight_Inspector6315
+•
+6mo ago
+Thanks, this is truly inspiring. Was the project done completely online? I am from India and plan to apply for Fall 2026 oMSCS. If selected, keen on project. Will they entertain international students for projects? Any advice on how to convince professor to agree to so projects? What do you think worked for you? Did it help as you’re an AI engineer? Does the professor need to be from GT only?
+
+
+2
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+Online completely
+
+Depends on professor. I met the professor through HAAG that’s included in the email Dr. Lytle sends out
+
+If you apply for the projects lytle emails, you should be able to do special projects and potentially the masters project
+
+Idk if my background mattered but it probably helped
+
+For credit projects require a gt prof. Idk if you can have an external advisor
+
+
+3
+u/Tight_Inspector6315 avatar
+Tight_Inspector6315
+•
+6mo ago
+Thanks. How many credit does the project work get and what grade you secured? Did you need to meet the professor often? Was she easily accessible?
+
+1
+
+1 more reply
+u/kazakda avatar
+kazakda
+•
+6mo ago
+Good job!
+
+3
+u/Yyz_chill avatar
+Yyz_chill
+•
+6mo ago
+Also which was the easiest/hardest course you took?
+
+1
+
+1 more reply
+u/AccomplishedJuice775 avatar
+AccomplishedJuice775
+•
+6mo ago
+How did you find the professor to do research with? Did you try contacting other professors as well?
+
+1
+
+1 more reply
+u/margielalos avatar
+margielalos
+•
+6mo ago
+Congrats and it is interesting to hear other students perspectives on the program, every course I’ve taken thus far just seems lack luster
+
+1
+[deleted]
+•
+6mo ago
+Congrats on finishing up the program, I’m just starting up in January. For your Fall 2024 Masters project, what were your findings about OSS LLMs? I’ve attempted to create some basic APIs for local setups but had latency issues, I’m interested to hear what your takeaways are vs. commercial LLMs.
+
+1
+
+1 more reply
+u/Sartoriali5t avatar
+Sartoriali5t
+•
+6mo ago
+Congratulations!
+
+In your opinion, were the project courses easier than the specific content-based courses? Did OMS help you become a Senior engineer and if so, which specific courses? Thanks!
+
+
+1
+u/atf1999 avatar
+atf1999
+OP
+•
+6mo ago
+I found the project courses easier mainly because it was less restrictive than the content classes imo. I think OMS did, not necessarily specific classes tho. I got senior engineer early and part of how my manager managed to get HR to go for it was because I was in a masters degree program and a reputable one
+
+2
+[deleted]
+•
+6mo ago
+Haha yeah that’s about the experience I had. I forget the exact model I was using but it was version of Llama. It kept reciting some lame poetry to me after about 45 seconds of latency. Were you able to find any usefulness after prompt engineering or introducing a RAG system?
+
+1
+u/wyeric1987 avatar
+wyeric1987
+•
+6mo ago
+Congrats! I’m just starting in spring 26. Is there a graduate project required? Outside of the 10 classes?
+
+1
+
+4 more replies
+relyinqtm
+•
+6mo ago
+Congratulations! Thanks for giving us a overview of the classes you did - helps a lot!
+
+1

@@ -1,0 +1,322 @@
+AI has now been added as a specialization (formerly II)
+For anyone who was waiting for an update or wondering about the situation.
+
+At least that's what it says in the orientation doc for Fall 2025.
+
+124
+·
+63
+u/ASUOnline avatar
+ASUOnline
+•
+Promoted
+
+"I wanted to attend a university that's well known and well respected. ASU really stood out for me because of the way that they approached their programing to be very similar to the on campus experience." - Saidy C.
+Learn More
+ad.doubleclick.net
+Clickable image which will reveal the video player: "I wanted to attend a university that's well known and well respected. ASU really stood out for me because of the way that they approached their programing to be very similar to the on campus experience." - Saidy C.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Comments Section
+johndee2020
+•
+10mo ago
+Yes I am specializing in that and you best believe I'll be slapping it on my resume !!
+
+
+48
+u/BuckyUnited avatar
+BuckyUnited
+•
+10mo ago
+But I think you’re too late to get that $100 million dollar offer from Meta.
+
+16
+u/awp_throwaway avatar
+awp_throwaway
+•
+10mo ago
+
+
+7
+u/Goofy_Goose_00 avatar
+Goofy_Goose_00
+OP
+•
+10mo ago
+Same‼️🗣️💯
+
+7
+
+1 more reply
+u/st45st23 avatar
+st45st23
+•
+10mo ago
+Fall 2025 Orientation Document
+
+The question is when does that take effect?
+
+Will it be for all transcripts including alumni?
+
+Will it be for all active students, students that haven't graduated as of fall 2025?
+
+Only students that are using the Fall 2025 catalog and after?
+
+14
+u/crjacinro23 avatar
+crjacinro23
+•
+10mo ago
+Will this reflect on the transcript for those previous graduates before Fall 2025?
+
+
+12
+u/awp_throwaway avatar
+awp_throwaway
+•
+10mo ago
+I doubt it, but I suppose that remains to be seen. But it's relatively rare for these sorts of things to apply retroactively; more typically, a given transcript, degree, etc. reflects a "snapshot" at a given point within the institution/program.
+
+5
+u/OpenAI avatar
+u/OpenAI
+•
+Promoted
+
+Don’t let merge-related issues slow you down. Keep PRs moving with Codex. Try Codex for Free.
+Sign Up
+chatgpt.com
+Clickable image which will reveal the video player: Don’t let merge-related issues slow you down. Keep PRs moving with Codex. Try Codex for Free.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Lopsided-Wish-1854
+•
+10mo ago
+Finally making some business sense.
+
+PS: https://omscs.gatech.edu/sites/default/files/documents/Orientation%20Documents/Fall%202025%20Orientation%20Document.pdf
+
+........ The following “Areas of Specialization” are available through the OMSCS program:
+
+● Computational Perception and Robotics
+
+● Computer Graphics
+
+● Computing Systems
+
+● Human-Computer Interaction
+
+● Artificial Intelligence (formerly known as Interactive Intelligence)
+
+● Machine Learning
+
+8
+
+[deleted]
+•
+10mo ago
+u/SecretSquirrelTech avatar
+SecretSquirrelTech
+•
+10mo ago
+I just checked in OSCAR and it's still in as II there, I wonder when that change will process.
+
+7
+u/AmericasNavy avatar
+u/AmericasNavy
+•
+Promoted
+
+What’s that saying, “All roads lead to being a Navy Officer”? No matter your path, you can land a career leading Sailors as a Commissioned Officer.
+Learn More
+navy.com
+Thumbnail image: What’s that saying, “All roads lead to being a Navy Officer”? No matter your path, you can land a career leading Sailors as a Commissioned Officer.
+Sad-Sympathy-2804
+•
+10mo ago
+Man, II has really come a long way. I still remember scrolling through posts here a few years back, people were seriously trashing the II track, saying how “ridiculous” it was just because it didn’t require GA. 😂
+
+Now? No one’s really talking about that anymore, probably bc they added HCI, which kinda became the new “gatekeeping” specialization target instead.
+
+And with the name change, I feel like it will become the most popular specialization in OMSCS.
+
+11
+
+3 more replies
+u/Peppington avatar
+Peppington
+•
+10mo ago
+This is pretty timely for me and now a bit stuck on what to do.
+
+My expected graduate date is Spring 26. For reference I work in Data Science already and have a MS in Statistics.
+
+I’m in the ML track and my last class in the Spring Semester will be GA. I actually will have all the requirements met for II/AI with the exception of swapping out GA for SDP which I was already taking this Fall.
+
+To me it seems like a win/win to switch to the AI track if the requirements are the same. More marketable concentration in 2025 and don’t have to take GA while also not needing to extend my program out
+
+4
+
+2 more replies
+sdkompiler
+•
+7mo ago
+Currently in the ML specialization and I've taken HCI, AI, ML4T, ML, SDP and currently DL and GIOS.
+I just found out about the AI specialization now so if I switch, does it mean I can take any other classes for my last 3? It looks like I've satisfied the core requirements for AI and I think I'd prefer to have this on my resume lol
+
+
+2
+u/Goofy_Goose_00 avatar
+Goofy_Goose_00
+OP
+•
+7mo ago
+Yup G. You've taken what's needed. Now just chill and finish the degree with any 3 with a "Specialization in Artificial intelligence" ‼️🗣️🔥🔥
+
+2
+u/iustusflorebit avatar
+iustusflorebit
+•
+10mo ago
+I already petitioned to graduate with the ML spec for 2025 but with this change I'd honestly rather just do AI. I can graduate with either assuming I get one more filler class for AI. Does anyone know if I can get that changed given that I've already petitioned? Will my degree show as an AI spec?
+
+
+3
+CameronRamsey
+•
+10mo ago
+Just list AI on your resume. No employer will request your transcripts then disqualify you because it says machine learning haha
+
+
+8
+u/iustusflorebit avatar
+iustusflorebit
+•
+10mo ago
+My main concern is getting out of GA lol
+
+3
+
+3 more replies
+u/Suitable-Fee8659 avatar
+Suitable-Fee8659
+•
+10mo ago
+AI without graduate algorithms is catastrophic.
+
+I wonder if they're gonna change the names of any other specializations..
+
+
+8
+CameronRamsey
+•
+10mo ago
+The hand wringing about GA will never not be the most annoying part of this sub. It is literally material covered in most undergrad programs.
+
+ I have to imagine you people are career switchers if you’re this worried about whether a masters program covers algos. I personally would be more worried about my program title being switched to a buzzword associated with a market bubble.
+
+
+9
+u/SnooFloofs8691 avatar
+SnooFloofs8691
+•
+10mo ago
+Agreed. Any CS masters worth it's salt should contain GA. It's an option in II (now AI) spec.
+
+3
+
+1 more reply
+
+2 more replies
+u/Goofy_Goose_00 avatar
+Goofy_Goose_00
+OP
+•
+10mo ago
+There's plenty of other ways to get the same level, if not more, knowledge.
+
+All without the stress of getting OSI violations.
+
+So I don't think it's bad at all, as long as we do our due diligence.
+
+10
+
+9 more replies
+
+2 more replies
+skesar3
+•
+10mo ago
+Where do you see it? I don’t see the website updated.
+
+
+1
+skesar3
+•
+10mo ago
+I see it in the orientation document.
+
+3
+
+1 more reply
+bootypic_jpg
+•
+10mo ago
+what if i graduate this fall? can i still get those?
+
+
+1
+mcjon77
+•
+10mo ago
+It doesn't hurt to ask. If not, would you be willing to delay your graduation a semester?
+
+2
+
+2 more replies
+u/nileconte avatar
+nileconte
+•
+10mo ago
+What it was formerly?
+
+
+1
+u/Goofy_Goose_00 avatar
+Goofy_Goose_00
+OP
+•
+10mo ago
+It is now Artificial intelligence, formerly was Interactive Intelligence.
+
+1
+
+2 more replies
+8aller8ruh
+•
+10mo ago
+Wasn’t Machine Learning already a specialization???
+
+
+1
+u/Goofy_Goose_00 avatar
+Goofy_Goose_00
+OP
+•
+10mo ago
+Machine Learning still is.
+
+Now Artificial Intelligence (used to be Interactive Intelligence) is also one. Just a name change.
+
+1

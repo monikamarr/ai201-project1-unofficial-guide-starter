@@ -1,0 +1,119 @@
+Order of courses for AI
+All, I have been admitted to OMSCS for spring 2021. I am non-cs degree(completed my degree almost 8 years back) but I did may fair share of coding and pretty comfortable with Java and decent in python.
+
+(Sorry for a long post)
+
+My main idea of doing OMSCS is to do either of these two things.
+
+learn machine learning/ai concepts and apply them to my field so that I can grow in it (I am pretty comfortable in my current job but I see there can be a potential use of ml or ai in here which can improve it significantly). I could have just taken online ml courses but chose OMSCS for #2
+
+I would potentially like to explore jobs in CS field and a masters in CS would help me get the fundamentals right rather than just picking up online courses.
+
+Now that I’ve given some brief background and my motivation, I’d like to jump to my question.
+
+I’ve wanted to specialize in ML and do most of the courses in interactive intelligence. I’ve read in previous posts here that chances of getting into ML, DL, RL or GA in 1st sem are very less. So, as plan B, I wanted to explore AI, KBAI and AI for robotics (and save ml courses for later sems)
+
+Folks who have taken AI courses/did interactive intelligence specialization, what would be the suggested order? I am interested in taking AI course and not too worried about picking up python as I have done it in the past and also did extensive Java coding in the past.
+
+Any suggestions about my thought process are welcome as I might be missing something.
+
+Thank you for your help.
+
+
+Read more
+2
+·
+17
+u/TryCursor avatar
+TryCursor
+•
+Promoted
+
+Plan with one model. Implement with another. Cursor lets you pick the best model for the task you’re working on.
+Sign Up
+cursor.com
+Thumbnail image: Plan with one model. Implement with another. Cursor lets you pick the best model for the task you’re working on.
+Comments Section
+[deleted]
+•
+6y ago
+order doesn't matter cause you won't be able to get into most of the easier, more popular courses anyways. I took AI as my 2nd course in the program and did fine. It was a bit of a uphill slog though.
+
+
+4
+whythiskolavaridiop
+OP
+•
+6y ago
+Thank you.
+
+1
+black_cow_space
+•
+6y ago
+(AI4R | KBAI) -> (ML4T | DVA) -> AI -> ML -> (RL | DL | BD4H)
+
+That is the general order I'd suggest(but you can skip some of course)
+
+
+3
+whythiskolavaridiop
+OP
+•
+6y ago
+Thank you. This looks good.
+
+1
+u/human-level-ai avatar
+human-level-ai
+•
+6y ago
+AI is a decent first course to get into the rigor of OMSCS; you will get one of the most time consuming courses out of the way early on. If you want a lighter course to start with then RAIT or ML4T are good.
+
+
+2
+whythiskolavaridiop
+OP
+•
+6y ago
+I see, thanks for the info on AI. My first choice was ML4T based on omscentral, but genera l consensus is that getting into this class in phase 2 is tough. But after reading about AI and it’s reviews, I am excited about it now :). Does RAIT stand for regression analysis? Sorry kind of getting used to shortcuts :)
+
+
+1
+u/pseddit avatar
+pseddit
+•
+6y ago
+Robotics: AI Techniques
+
+It has some stuff like A* search you would also do in AI but on a more laid back schedule. In contrast, AI is often described as drinking from a fire hose.
+
+4
+
+1 more reply
+u/aminm17 avatar
+aminm17
+•
+6y ago
+Does AI have open spots?
+
+1
+
+5 more replies
+u/_icipher avatar
+_icipher
+•
+6y ago
+You mentioned you would like some CS fundamentals, so you might want to read the reviews for GIOS and look into that. It's a very well run course, but it can also be difficult if you don't have a good background (C, OS concepts, threading, IPC).
+
+I just finished AI and I think it was a good course, but it had a heavy workload.
+
+
+2
+whythiskolavaridiop
+OP
+•
+6y ago
+Thanks, will look into that.
+
+1

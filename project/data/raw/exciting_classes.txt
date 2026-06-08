@@ -1,0 +1,70 @@
+What classes outside your specialization are you most excited to take?
+I’m ML spec and I’m personally excited to take GIOS and DS in the future. Other than the fact that the material looks interesting, I think both will make me a much better programmer.
+
+5
+·
+6
+u/shopify avatar
+shopify
+•
+Promoted
+
+YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
+YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
+YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
+YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
+YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
+YSK: The economy is unpredictable. Shopify is here to help you roll with it. (Yes, this is an ad, but it's helpful, FWIW)
+shopify.com
+Sign Up
+Comments Section
+u/SomeGuyInSanJoseCa avatar
+SomeGuyInSanJoseCa
+•
+5y ago
+Computation Journalism of course.
+
+
+21
+u/TrainFan avatar
+TrainFan
+•
+5y ago
+Agreed. This is a great class.
+
+1
+Walmart-Joe
+•
+5y ago
+Video Game Design. I'm on the fence between IIS and then Game Design after graduating, or self study for IIS to take Game Design as my last class.
+
+7
+[deleted]
+•
+5y ago
+The reverse of yours. I’m in Computing Systems but I intend to take a bunch of ML courses.
+
+4
+[deleted]
+•
+5y ago
+Also in ML spec, and already took GIOS and enjoyed it. Plan to take DS as well and HPC.
+
+2
+u/awp_throwaway avatar
+awp_throwaway
+•
+5y ago
+I'm nominally pursuing comp systems specialization, but plan to use my free elective slots on ML stuff to get more breadth in the field (coming in from a non-EE/non-CE engineering background). Still on my first class currently (GIOS), but ideally I'd like to do:
+
+comp systems (spec): GIOS, HPCA, IHPC, AOS
+ML (free electives): AI, ML, RL, DL
+GA (required)
+[1 free slot]
+In the nearer term, planning to take HPCA, AI, and ML over the next year. GIOS and HPCA will provide the foundation for the systems stuff. As for the ML side, I'm not familiar with the topic/area in general but interested in learning more, so I'm taking AI & ML first to see how well I like the subject matter; if I do, then I'll go the distance and take RL & DL, otherwise if not, then I'll free up those two slots for more systems courses.
+
+The "free slot" is still unaccounted for; going to wait and see how the reviews are for some of the more recent additions I'm interested in (e.g., systems issues in cloud computing) and/or new courses rolled out while in residence. Also, with these classes, it would be easy to pivot over to ML if the free slot ends up in that area, otherwise I can stay in comp systems and take one of those to round out the requirements.
+
+Really enjoy the variety OMSCS provides, there's something for everyone!
+
+1

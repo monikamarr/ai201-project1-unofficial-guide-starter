@@ -1,0 +1,290 @@
+How are we feeling about ML4T? Especially for those whom this is not a first course.
+I’m 1.5 years into the Computing Systems specialization. After some of the heavier hitters (GIOS, AOS, etc.), I took ML4T as a "break" course, thinking my finance background and Python mastery would make it a smooth application of ML concepts.
+
+Halfway through, I’m less concerned about the difficulty and more frustrated by the lack of professional/academic rigor. A few specific gripes:
+
+EdStem responses from TAs are cryptic and/or dismissive. When a student asked if tissues were allowed in the testing area for a cold, instead of a yes or no, the response was "Let's just hope you're better by then." This is the case, too, with project specs; questions are met with rhetorical flourishes amounting to "it depends" non-answers, or "Go find the answer in the optional 60-minute livestream."
+
+We have high-level, 10,000ft-in-the-sky style lectures paired with deep-dive textbook readings. When asked what level of mastery is expected for Exam 1, the answer is a hand-wavy "everything is fair game." It’s hard to spend limited study time well when the course can’t define its own learning objectives/boundaries.
+
+The project specs are incredibly verbose, but mostly to compensate for what feels like a brittle autograder (IMO). Instead of testing well-defined API boundaries in isolated processes, it feels like they are loading our raw code into a precarious runtime. Then they hedge their bets by writing out all the ways they've seen their code be broken in the past, just so they can say it's the students' fault if it happens. This creates incredibly dense specs where most of the information really isn't useful. Compound this with point 1, that when you have a legitimate questions about interpretations of the already-verbose spec, you get met with non-answers.
+
+I know this course was ported from a non-computing department, but it could do with a severe re-write with the assumption it's now part of a MSCS program. The course seems heavily optimized for students coming from non-CS backgrounds, which results in a lack of technical depth that I'd expect from a graduate-level CS elective.
+
+Ultimately, I'm kind of regretting taking the class. I'm not disappointed with the material. I'm really just disappointed in the administration. This is my first class where I don't actually feel like I'm learning; I'm just trying not to trip over a hidden wire buried in a spec or livestream somewhere.
+
+For those who took this later in their journey, do my frustrations resonate with you? Do you disagree? What's been your experience?
+
+54
+·
+49
+u/Official_ATTFiber avatar
+Official_ATTFiber
+•
+Promoted
+
+Wake up connected with fast and reliable home internet from AT&T.
+Learn More
+att.com
+Thumbnail image: Wake up connected with fast and reliable home internet from AT&T.
+Comments Section
+u/rhymeswithcrazy avatar
+rhymeswithcrazy
+•
+4mo ago
+Took ML4T last semester and I agree with all your complaints, especially the first point. TA answers in edstem were overwhelming useless and borderline rude at several points. And if you call them out on it, they just default to "running a class this big is really really really hard and the only way to keep it fair is to not provide any information that isn't already available in class materials." What is the point of having an open discussion board then beyond allowing TAs to leave snarky one-liners?
+
+I think the class structure is just fundamentally unsuitable for such a large class size. Projects are comically easy to implement, so the bulk of the work is supposed to come from writing reports. But the TAs don't have the time to actually read all the reports, which makes the report portion feel like busy work since effort isn't rewarded in any way. Exams are absolute BS, wouldn't bother studying for them if I were you.
+
+
+41
+u/CautiouslyFrosty avatar
+CautiouslyFrosty
+OP
+•
+4mo ago
+I've had the EXACT same thought: The TAs have constantly mentioned how they're fighting the scale of this course. But then several 7-page essays have to be composed by every student in a term. Wouldn't they WANT the coding portions of the projects to bear more weight? They can be (auto)graded much faster and hold just as much value.
+
+
+15
+u/rhymeswithcrazy avatar
+rhymeswithcrazy
+•
+4mo ago
+Yep. To be fair, I think this course could be excellent if reports were stringently graded to the point where students need to do a deep dive on the material in order to write A level reports. Instead, there's this weird adversarial relationship between students and instructors to ensure there’s artificial grade separation. The programming is all undergrad level stuff, so they prevent everyone from getting A's by adding silly little requirements and giving no direction on how to study for needlessly convoluted exams. 
+
+I do think they had a good thing going here years ago and are therefore reluctant to substantially change the course structure. But I don’t see a solution other than decreasing the class size enough to actually grade the reports or increasing the difficulty of the programming assignments and developing a competent autograder. 
+
+5
+NH_neshu
+•
+4mo ago
+Idk why the assignments are written in some spaghetti professor language and having to write a report every week is absurd. I have no idea why we need to make things so complicated.
+
+22
+ProphecyKing
+•
+4mo ago
+The most insane part to me is that the future projects depend on the old ones yet the old ones won’t be graded before the future ones are due.
+
+7
+u/ChipsAhoy21 avatar
+ChipsAhoy21
+•
+4mo ago
+It’s been three years since i’ve taken it, but I do remember feeling like it was a pretty dumb course. It’s not particularly rigorous, but that said, it was never said to be. It teaches concepts that any undergrad student of finance is told time and time again are meaningless in the world of trading (rolling averages, simple signals, etc.) The only meaningful thing I learned was a bit of RL.
+
+I took away from it was learning how to build a back testing framework and parellizing my code better, both of which are trivial tasks with LLMs these days.
+
+10
+u/smarmymcsmugass avatar
+smarmymcsmugass
+•
+4mo ago
+This is my first course and it's fine. The video content seems to come from early Udacity courses. I particularly like the projects and their instructions. The grading sections are helpful to me as a way to keep a check list of completing the assignments appropriately. I'm a little disappointed in the mathematical depth as it doesn't feel like a graduate level course in that regard, even the math in the readings is fairly simple. Would I say it's a good first course though? I haven't felt stressed out about anything so far, so yeah seems right.
+I have 10 years of experience in software with my undergraduate degree in math. I also prefer learning from text books over lectures so maybe this course just doesn't bother me as much. We'll see if any of my opinions change after the first exam.
+
+5
+
+3 more replies
+u/GoblinBurgers avatar
+GoblinBurgers
+•
+4mo ago
+ML4T is a heavily recommended first course for a reason, it has enough technical challenge and expectations that can make people realize whether they have what it takes to even consider OMSCS or not, you took it as a break so you should not be surprised by that this course wasn't rigorous but at the same time stating you are not learning anything is either due to your own previous level of knowledge or just flat wrong. ML4T was my first exposure to ML and I felt like it was a great exposure for me to see if I wanted to pursue ML further or not.
+
+As far as the "I'm just trying not to trip over a hidden wire", I have felt that way within every course with cookie cutter assignments, for example KBAI: everyone and their mom used the exact same algorithm for MP1 and one of two for MP2, it literally felt like I paid to take a course on doing leetcode.
+
+
+13
+Praying_Lotus
+•
+4mo ago
+It’s the overarching project that I found most interesting (and brutal) in KBAI. And don’t worry, there are some tough as sin mini projects as well in there as well. The annoying part is having to write a paper with everything, on top on something being due EVERY week. That constant stream really wore me down.
+
+In regard to ML4T, it’s my second course, and I personally am REALLY trying to get as much as I can out of the READINGS versus the actual lectures. They (lectures) do a…decent enough job of exposing to finance and ML, but if you really want to get into the nitty-gritty of ML, the readings are where it’s at. I felt I’ve learned more from those than the lectures themselves, at least from ML. The finance piece isn’t all too complicated if we’re being honest, the one gripe I have is connecting the two is only sorta okay.
+
+The projects have been fine, but I agree, having to watch out for something random because of poorly worded projects is not great. If you have to have a whole video explaining the project (when in KBAI, you could understand it if you just read over it a few times), then that’s not a good sign in my opinion.
+
+
+3
+u/GoblinBurgers avatar
+GoblinBurgers
+•
+4mo ago
+I don't know if they've changed ML4T since I took it but I felt like if anything the project instructions were too thorough, I'd go through and highlight all the requirements, code up the project, test against gradescope and call it a day. Exams were ass but you could pass with an A while doing mediocre on them.
+
+5
+u/CautiouslyFrosty avatar
+CautiouslyFrosty
+OP
+•
+4mo ago
+My post is about gripes with the administration of the course, not with it "not being difficult enough".
+
+Regarding the "hidden wire" comment, I'm contrasting my experience with ML4T projects thus far to the projects I've completed in the Computing Systems track. I've felt that those projects have been very fair and their specs not overly verbose. Maybe the AI and ML tracks don't feel that way; I couldn't say. I'm just giving you my experience.
+
+3
+
+1 more reply
+u/jamieb122 avatar
+jamieb122
+•
+4mo ago
+Same issues with dismissive TAs when I took it. They would often just say things like “Read the syllabus” or “it’s in the FAQ”. The issue was the requirements were spread all over the place syllabus, edstem, api reference page, faqs, project docs. They need to consolidate things so students have access to everything in one spot. For example if an API should be implemented, put it on the project page, not some other page
+
+The dismissiveness and tone was the worst part for me.
+
+6
+
+1 more reply
+u/Otherwise_Staff_1305 avatar
+Otherwise_Staff_1305
+•
+4mo ago
+I think the problem with the opaqueness from the TAs is that sometimes it's warranted (if a student asks a question that's answered in a lecture, the answer should be for them to review class materials and it's a graduate level class, so I don't expect them to outright answer most questions) and sometimes it just seems unnecessarily vague (the student asking about tissues, for example).
+
+I think what I'm most frustrated about is the length of time it's taking to receive any grades. I understand that this is a large class, but we still haven't gotten grades for a project due on 1/28. Will we have submitted 4 projects before we get back feedback from one? I'm worried, what if I made a mistake in Project 1 and replicated it across 3 additional projects (one of which is worth 15% of our grade)? I'll have to drop the class, there's no time for me to get feedback, implement it, and bring my grade back up. This is a huge class and it seems like the TAs are working hard, so I don't know what the solution to this is.
+
+5
+
+3 more replies
+u/locallygrownlychee avatar
+locallygrownlychee
+•
+4mo ago
+I learned nothing in that course. I just remember they took off 20 pts out of 100 if your graph lines were not red and blue like the asked. Directions strewn about multiple web pages, buried in office hours or a comment in some ed stem thread with 20 student likes. Truly a worthless class that taught me only to underline everything in the spec and write a submission checklist.
+
+5
+Perrenski
+•
+4mo ago
+I have to agree for a lot of this lol. I’m surprised with how highly rated it is. But the reading are MURDER. I’m sure the test will nuke the hell out of me between how disjointed the readings and the lectures are. I wish they were just slightly more aligned :/.
+
+It’s straight up like two different classes.
+
+All that being said… I am learning a lot which is the point. To be frank how I feel will be determined by my assignment and test grades. I’ve put a lot of effort in and I’m not dumb. So ideally that effort should result in a decent grade I hope.
+
+
+2
+u/LabTeq avatar
+LabTeq
+•
+4mo ago
+Some of the textbooks are okay, intro to statistical learning is great, but the Big Data in Investments book is absolute trash lmao.
+
+3
+u/LabTeq avatar
+LabTeq
+•
+4mo ago
+Feeling like I am wasting my time with this class. It feels like it has nothing to do with the actual ML content. Why at week 4 are we still being asked quiz questions about Office Hours scheduling? Why is so much project time spent just fixing the traps that they have set in the provided code? You aren't allowed to have your code print anything, yet they have by default inserted nonsensical print statements in some of the assignment's framework scripts. You must implement the study_group() api. Some scripts have a study_group() function already there, others don't.
+
+2
+Significant-Cow-5543
+•
+3mo ago
+SO relieved to have read the comments. I was thinking it is me that is having a hard time to adjust to this type of learning (this is my first course and I have 5+ years of experience). That being said, can anybody say how the exams are like? It's hard to even prep for anything with just the lectures.
+
+2
+Upstairs_Will6500
+•
+3mo ago
+I don't understand why we need a mirror when we have an external webcam and every other class I have taken allows for an external webcam
+
+2
+Wild_Zombie2680
+•
+2mo ago
+Lectures are fun: I have no knowledge of finance/trading/etc.. so I found the lectures interesting and even quite easy to understand.
+
+Projects aren't hard: The projects were easy to medium level, however, for me understanding the project requirements took almost as long as long as writing the code.
+
+Reports are fun: The reports were surprisingly fun. I usually absolutely loathe writing and was never good at it. However, the reports' requirements were clearly outlined and all you need to do is state how the plots produced by the code reflects certain concepts. I am genuinely bad at writing, and i's hard for me, but have gotten 100% on the writing part of all the reports so far (Assignment 8 ungraded atp). All that to say, the reports aren't too bad. Plus they don't need you to explain much of anything, just state what you see in the plots and how you implemented certain parts of the code.
+
+Exams suck: I hate the exams... Yet to do the final.
+
+Little annoying assignments every week (quizzes): I hate how many little assignments here are, technically there to boost your grade, but if you miss them, your grade will suffer, and I missed a lot of them just because I kept forgetting about them.
+
+Reading is.. a lot: There is a lot of reading, and some of it just seems extremely useless for the class (good to know in general I guess, but not for the class). One of the books is basically just the lectures rephrased (or not).
+
+TA's are rude: The TA's are actually so rude like everyone is saying.. They turned me off from reading the discussion posts almost completely as it is not helpful and sometimes infuriating. Especially when someone asks a question I wanted to find the answer to on Ed Discussions, and a TA would say something vague, snarky, or link to something with walls of information instead of answering a yes or no question, or something simple like that. I'm not even talking about an answer that requires a lot of re-explaining. Seems like they go out of their way to be snarky whenever possible. In other classes, AI4R for example, the TA's were extremely helpful and I would frequently get over road blocks by reading their replies to other students/facilitating discussions int he forum/ etc...
+
+Exams take forever to be graded: The exams are multiple select (?) I think that's the name, but they don't release the grades immediately (I feel like they can and choose not to). I suspect that's because they release the grades with feedback on your answers so that takes a while, so they don't want people submitting a request for a grade clarification or regrading before delivering the feedback, but there are ways to navigate around that.
+
+I realized I don't like ML: This class single handedly made me reconsider a ML specification. I just did not like the machine learning part as much as I liked other AI classes. I think that alone makes me thankful I took the class and discovered I don't want to continue with ML before diving head first into more challenging classes.
+
+
+2
+u/CautiouslyFrosty avatar
+CautiouslyFrosty
+OP
+•
+2mo ago
+Hard agree.
+
+As the semester goes on, I'm actually quite frustrated with how vague and condescending the TAs are allowed to be toward students (like "the department should be aware of this" kind of vague and condescending). They stressed so much at the beginning of the class how much they're aiming for a collaborative, supportive environment, and their behavior on EdStem has been a blaring contradiction of that.
+
+They talked about the volume of posts they were expecting to get on EdStem required a defensive administrative posturing, but now, unless a project is due the next day, they only get 3-6 posts a day. That's NOTHING compared to other courses I've been in with much smaller head counts that managed just fine.
+
+And it's not because students don't have questions, but I'm sure its because the canned responses from the TAs are so useless and discouraging that I bet nobody bothers to use the forum. It's a chilling effect.
+
+Especially after Dr. Joyner's post about the "internal consistency" of the Exam 1 equating it to a "good test", I can't help they're so focused on the scaling of the course that they've forgotten they're sacrificing student experiences and outcomes.
+
+Course evals are out. They'll be hearing about that from me.
+
+1
+
+1 more reply
+dampestowel
+•
+4mo ago
+For me it's my first course and I'm coming straight from a CS Undergrade degree. My biggest frustration was pretty much as you said, the projects are way too verbose with so many opportunities to lose large amounts of points for missing something really small. I also have no idea what to expect for the exams, I think E1 for me is going to be a total crap shoot. Each week it seems were assigned 5 chapters of reading that aren't referenced in the lectures or used on the projects. Given that each exam is worth double most of the projects, the line between and A and a B will likely be who taught themselves everything that wasn't in the lectures.
+
+2
+u/cheesyvagina avatar
+cheesyvagina
+•
+4mo ago
+Feel the same way. I tried to make this clear in the first quarter survey, there should at least be some kind of debrief after the first project to see what types of mistakes they’ll grade as being serious. Also can’t agree enough about the EdStem posts, just please answer people’s questions clearly so people aren’t guessing!
+
+1
+u/JohnBGaming avatar
+JohnBGaming
+•
+4mo ago
+Yeah the TA's are terrible and it's not run well. The lectures are good and the projects are interesting, the reports are a waste of time
+
+1
+surprizesd
+•
+3mo ago
+I am really not sure what to expect for the first exam this week. Sure I learned a few things about ML so far, but honestly it is basic, I'm expecting deeper knowledge even for an entry class.
+
+1
+dukesb89
+•
+4mo ago
+Yeah ML4T sucks. I always suggest that people take IAM if they're looking for an intro / easy ML class.
+
+
+1
+lemonnss
+•
+3mo ago
+It's not a fundamental (core) course though, it wouldn't count for the first 2 mandatory core courses
+
+1
+
+1 more reply
+ComputerScienceBear
+•
+4mo ago
+I’m dropping the course, the lectures are literally from the 1900’s and writing the reports is just busy work. Absolutely a waste of time and such a burden. This is my first class in OMSCS, and if the rest of the courses are like this I don’t want to continue.
+
+1
+u/hpp3 avatar
+hpp3
+•
+4mo ago
+This course is good as a very basic introduction to ML, and a very basic introduction to finance/trading. You would think that there would be some synergy or reason to force these two half-courses into a single course, but there isn't really. You cannot make any kind of successful trading bot with the simple ML taught in this course.

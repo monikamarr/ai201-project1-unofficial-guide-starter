@@ -1,0 +1,478 @@
+All Courses Ranked by Difficulty Using Grades and Reviews
+This post includes all lifetime reviews. The updated lists below offer a similar analysis performed with only recent data broken out by Summer and Fall/Spring Semesters:
+
+All Fall/Spring Courses Ranked by Difficulty 2025 Edition
+
+All Summer Courses Ranked by Difficulty 2025 Edition
+
+Reviews offer a great starting point for determining course difficulty, but only a fraction of students ultimately leave reviews. Considering all OMSCS courses currently offered, the median number of lifetime reviews for a course is 51. For comparison, the median course had a total of ~1,000 students across the eight 16-week semesters from Spring 2020 – Fall 2023. The goal here is to smooth out some selection biases in reviews and add another way of looking at course difficulty through the typical grades received in a course.
+
+Average grades by semester were recorded from Lite. OSCAR and omscs.rocks were used to get an idea of the number of students who went into those averages each semester to get weighted average rates of A’s, B’s, W’s, etc... for each course. That information was compared to review data to get an overall estimate of course difficulty. Presumably if more students get A’s and B’s and report a course as having a high overall rating with lower difficulty and workload requirements, that course is relatively easier than a course with high rates of C’s and W’s. In rough terms, with ‘+’ indicating easier and ‘-’ indicating harder, the weight of factors from most to least important is as follows: % A’s (+), Workload (-), Difficulty Rating (-), % C-F's (-), % B’s (+), % W’s (-), Overall Rating (+)
+
+Given this is a subjective weighting system applied to data that includes subjective ratings and no adjustment is made for potential selection bias in students (niche courses with higher perceived difficulties like compilers and SDCC could attract more invested/experienced students than more general CS courses like CN and GIOS), this isn’t a surgical list and plenty of these rankings could flex up or down a few slots. All rankings are oriented with 1 as easiest and 63 as hardest.
+
+All 63 courses ranked from easiest to hardest, in tiers:
+Tier 1 (Free Credits)
+Rank	Course Code	AKA	A%	A-B%	Grades Rank	Rating	Difficulty	Workload
+1	MGT 8813	FMX	0.86	0.921	5	51	1	4
+2	CSE 6742	MSMG	0.89	0.912	3	40	5	6
+3	INTA 6450	DAS	0.868	0.932	2	60	3	3
+4	MGT 6311	DM	0.724	0.925	12	4	2	2
+5	CS 8803 O15	Law	0.846	0.923	8	9	14	1
+6	CS 8803 O22	SIR	0.809	0.945	7	23	10	5
+7	CS 6150	C4G	0.912	0.944	1	61	10	12
+8	CS 7650	NLP	0.868	0.946	6	40	7	11
+Tier 2 (Almost Free Credits)
+Rank	Course Code	AKA	A%	A-B%	Grades Rank	Rating	Difficulty	Workload
+9	CS 6603	AIES	0.831	0.903	9	62	4	10
+10	CS 6457	VGD	0.871	0.916	4	11	17	31
+11	CS 6795	ICS	0.827	0.891	10	25	11	15
+12	PUBP 8823	GCY	0.721	0.869	14	1	10	9
+13	CS 8803 O17	GE	0.742	0.845	13	31	13	9
+Tier 3 (Entry Level)
+Rank	Course Code	AKA	A%	A-B%	Grades Rank	Rating	Difficulty	Workload
+14	CS 6300	SDP	0.709	0.869	19	34	16	14
+*15	CS 8803 O16	DHE	0.721	0.852	15	N/A	N/A	N/A
+16	CS 6440	IHI	0.757	0.791	18	58	15	18
+17	CS 7632	Game AI	0.68	0.792	22	7	24	23
+18	CS 7470	MUC	0.721	0.842	21	57	13	22
+19	CS 6310	SAD	0.733	0.805	17	53	21	26
+20	CSE 6242	DVA	0.806	0.853	11	54	36	45
+21	ISYE 6644	Sim	0.538	0.911	20	8	37	20
+22	CS 6750	HCI	0.635	0.81	24	15	20	28
+23	CS 6747	AMRE	0.75	0.804	16	4	41	40
+24	CS 6250	CN	0.648	0.795	27	38	18	13
+25	PUBP 6725	ISP	0.474	0.845	31	47	6	7
+Tier 4 (Medium)
+Rank	Course Code	AKA	A%	A-B%	Grades Rank	Rating	Difficulty	Workload
+26	CS 7639	CPDA	0.635	0.808	23	55	34	25
+27	CS 6262	NetSec	0.66	0.768	26	46	31	29
+28	CS 6460	EdTech	0.603	0.738	30	18	25	39
+29	CS 6675	AISA	0.539	0.78	28	43	31	37
+30	CS 7280	NetSci	0.58	0.737	29	45	28	35
+31	ISYE 6501	iAM	0.451	0.795	37	13	26	16
+32	CS 7638	AI4R	0.592	0.721	34	21	31	33
+33	CS 8803 O13	QC	0.546	0.698	33	29	35	27
+34	CS 7646	ML4T	0.525	0.673	44	19	22	24
+Tier 5 (Hard, or at least harder than you think)
+Rank	Course Code	AKA	A%	A-B%	Grades Rank	Rating	Difficulty	Workload
+*35	CS 6211	SDCC	0.813	0.824	25	2	61	59
+36	CS 6035	IIS	0.487	0.689	48	39	19	19
+37	CS 7637	KBAI	0.5	0.677	41	35	33	38
+38	CS 7643	DL	0.526	0.746	35	20	49	53
+39	CS 6263	CPSS	0.397	0.58	52	42	23	17
+40	ISYE 6420	Bayes	0.508	0.678	40	56	40	34
+41	CS 6238	SCS	0.387	0.786	38	52	42	43
+42	CS 6515	GA	0.428	0.818	36	37	50	52
+43	CS 6340	SAT	0.439	0.646	47	36	39	30
+44	CS 6400	DBS	0.344	0.749	50	59	27	21
+45	ISYE 8803	HDDA	0.525	0.686	39	10	54	49
+46	CSE 6250	BD4H	0.555	0.711	32	26	58	60
+47	CS 6476	CV	0.525	0.661	43	26	51	55
+48	CS 6264	SND	0.433	0.546	45	48	46	51
+49	CS 7642	RL	0.432	0.668	42	22	57	57
+50	CS 6200	GIOS	0.385	0.56	55	6	45	50
+Tier 6 (Take these alone)
+Rank	Course Code	AKA	A%	A-B%	Grades Rank	Rating	Difficulty	Workload
+51	CS 6265	BE	0.494	0.668	46	3	59	61
+52	CS 6260	AC	0.313	0.696	58	44	47	46
+53	CS 6210	AOS	0.431	0.59	56	17	55	48
+54	CS 6601	AI	0.429	0.634	53	14	52	58
+55	ISYE 6402	TSA	0.413	0.693	51	63	56	41
+56	ISYE 6669	DO	0.295	0.717	59	28	48	36
+57	CS 7641	ML	0.345	0.597	54	50	53	56
+58	CSE 6220	IHPC	0.418	0.589	57	12	60	54
+59	CS 6290	HPCA	0.316	0.553	61	24	44	42
+60	CS 6291	ESO	0.357	0.461	60	30	43	44
+61	CS 6475	CP	0.295	0.521	63	33	38	47
+Tier 7 (Tell your Loved Ones goodbye)
+Rank	Course Code	AKA	A%	A-B%	Grades Rank	Rating	Difficulty	Workload
+62	CS 8803 O08	Compiler	0.323	0.506	62	16	62	62
+63	CS 7210	DC	0.369	0.661	49	49	63	63
+Notes:
+*15 – DHE currently has no reviews. For overall ranking, (2.5, 2.5, 5) was used as a placeholder for (rating, difficulty, workload). The N/A’s occupy the middle of the ranking at 32 so 1 is still the easiest and 63 is still the hardest for the other courses.
+
+*36 – SDCC is reviewed as one of the toughest courses in OMSCS, however it has an enforced prerequisite of an A in AOS (Tier 6) and a pass/fail structure that contributes to it having an A % belonging in Tier 3. There's a clear selection bias at play here and SDCC is probably deserving of a Tier 6 or even 7 ranking. That said, the point of this list is to offer some semblance of objectivity with grades, so no manual adjustments will be made to individual class rankings. For overall rank and grades rank I settled on treating the pass % as one third B’s and two thirds A’s.
+
+ESO, DO, and CP: None of these courses are in the top 10 most difficult for reviews, but their grades performance is abysmal:
+
+ESO is the only OMSCS course where the majority of students fail to get an A or B, though Compilers is very close to earning this distinction as well.
+
+DO and CP give out the lowest rates of A’s.
+
+DO gives out the highest rates of B’s as well as C-F's
+
+Easiest Plans by Specialization Ranked Easiest to Hardest:
+Easiest Possible Course Plan:
+HCI Specialization: (MUC, HCI), (VGD, ICS, IHI), (FMX, MSMG, DAS, Law, SIR) - Really any 5 courses from tier 1 would work for the electives. You get to earn an MS and never learn what life is like above tier 3.
+
+Easiest (2nd):
+II Specialization: (SDP), (KBAI, AI), (NLP, AIES), (FMX, MSMG, DAS, Law, SIR) - The jump from HCI to II is pretty visible, forcing the inclusion of courses from Tiers 5 and 6.
+
+Easiest (3rd):
+ML Specialization: (GA), (ML), (NLP, AIES, DVA), (FMX, MSMG, DAS, Law, SIR) - The II - ML gap is much smaller. Having to take GA instead of SDP makes all the difference.
+
+Easiest (4th):
+CPR Specialization: (GA), (AI), (NLP, CPDA, AI4R), (FMX, MSMG, DAS, Law, SIR) - ML to CPR presents another noticeable gap, trading ML, AIES, DVA for AI, CPDA, AI4R
+
+Easiest (5th):
+CS Specialization: (GA), (SDP, CN), (SAD, NetSec, AISA), (FMX, MSMG, DAS, Law) - Despite quite different course loads, CPR and CS are practically tied for the "Hardest Easiest Plan".
+
+Hardest Plans by Specialization Ranked Hardest to Easiest:
+Hardest Possible Course Plan:
+CS Specialization: (GA), (HPCA, AOS), (DC, Compiler, ESO), (CP, IHPC, ML, DO) - There’s probably no real reason to take exactly this plan aside from for everyone else’s amusement, but hey, you get to take the 8 hardest courses in OMSCS and 9 Tier 6+ courses. So much overlap between the hardest courses and the CS core and elective requirements means this is absolutely #1 on this list, and it's not close.
+
+Hardest (2nd):
+II Specialization: (GA), (ML, AI), (CV, DL), (DC, Compiler, CP, ESO, HPCA) - A range of relatively easy and difficult options means II can get 2nd place for Hardest as well as Easiest.
+
+Hardest (3rd):
+ML Specialization: (GA), (ML), (RL, CV, BD4H), (DC, Compiler, CP, ESO, HPCA) - The difference between II and ML is microscopic. AI/DL vs RL/BD4H is the only change here.
+
+Hardest (4th):
+CPR Specialization: (GA), (ML), (CP, CV, AI4R), (DC, Compiler, ESO, HPCA, IHPC) - CPR is very close behind II and ML, but still a clear 4th place. Being able to take CP and IHPC almost makes up for having to take a Tier 4 course in AI4R.
+
+Hardest (5th):
+HCI Specialization: (MUC, HCI), (EdTech, IHI, ICS), (DC, Compiler, CP, ESO, HPCA) - While flexibility allows II to take 2nd in both lists, lack of options means there just isn't room for movement in HCI. This is the "Easiest Hardest" Plan, and it's not close.
+
+250
+·
+87
+u/NissanUSA avatar
+NissanUSA
+•
+Promoted
+
+Inside the Nissan Rogue journey: 24 hours of focus for a lifetime on the road. See the American grit in Smyrna, TN. 📍​
+Learn More
+nissanusa.com
+Clickable image which will reveal the video player: Inside the Nissan Rogue journey: 24 hours of focus for a lifetime on the road. See the American grit in Smyrna, TN. 📍​
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Comments Section
+u/OMSCS-ModTeam avatar
+OMSCS-ModTeam
+MOD
+•
+2y ago
+Mod Take - u/DavidAJoyner, seems like we need to up the HCI Spec abit 😬, at least putting one to Tier 4 or 5.
+
+But realistically, a huge chunk of us will try to get into Tier 1 classes. OMSCS Advisors have already known this. They're not dumb - so they have slightly modified their approach.
+
+Starting this semester, anyone who needs a class for graduation will only be prioritised if it's their last class AND no other electives to replace that are available.
+
+So Financial Modeling and Digital Marketing? You better think twice. Besides, a max. of 2 non-CS/CSE classes only counts for graduation so be prepared for when you gonna take that AIES, too.
+
+1
+
+14 more replies
+StreamingPotato4330
+•
+2y ago
+Hmm. Interesting take. Going into my last course i find myself disagreeing with a lot of what i'm seeing here, but could just be me.
+
+Edit: For instance, VGD was definitely NOT an almost free credit :D
+
+
+44
+josh2751
+•
+2y ago
+VGD is a lot of work. Great course, and nothing really “hard” about it, but it’s a ton of work and if you don’t get a good group you’re kind of screwed.
+
+
+24
+beastwood6
+•
+2y ago
+I had a zombie group from hell and was asked last minute to finalize all the submissions which included an all nighter of obvious bug fixes that they couldnt be arsed to polish (so the playthrough video wouldnt look like obvious slimey trash).. I figure I gave the vibe of being the boy scout that wouldn't let things collapse so they went off to have their merry Sunday and nice sleep etc...
+
+11
+
+1 more reply
+Stagef6
+OP
+•
+2y ago
+The tier 1-3 labels may overstate the easiness of their courses, but VGD has the 3rd highest rate of A's awarded to students. If the work itself isn't easy, there's likely either a student selection bias or the course is doing something to encourage above-average performance.
+
+
+8
+u/sunmaiden avatar
+sunmaiden
+•
+2y ago
+It’s a pure elective on a topic that a great many people are passionate about, more so than any other class offered. The class is well organized, and the project requirements are spelled out in detail. There’s a lot of work but there is no uncertainty - the main path to not getting an A is group dysfunction.
+
+17
+
+1 more reply
+koenafyr
+•
+2y ago
+IIS is the most surprising tbh but I imagine its because of the cybersecurity policy track students diluting the results.
+
+26
+u/Official_ATTFiber avatar
+u/Official_ATTFiber
+•
+Promoted
+
+Home internet from AT&T that works the moment you plug in at a simple, straightforward price.
+Learn More
+att.com
+Thumbnail image: Home internet from AT&T that works the moment you plug in at a simple, straightforward price.
+u/srsNDavis avatar
+srsNDavis
+•
+2y ago
+With SDCC, I think it's not just the 'A or F' scheme, also a strong selection bias from the entry barrier. You need an A in AOS to sign up for SDCC, and it's the only prerequisite (to my knowledge) in all of OMSCS that is enforced (you get put on audit mode without the prereq).
+
+By the way, in addition to the easiest and hardest possible course plans, it might be a worthwhile addition to add easiest and hardest course plans per spec.
+
+While the data is interesting to look at, I do have the occasional disagreement. For instance, I sure think ML was easier than HPC or AOS (despite the lower A%) for the simple reason that you could salvage poor results with a good paper explaining why things didn't work out as expected.
+
+
+18
+u/pacific_plywood avatar
+pacific_plywood
+•
+2y ago
+You explicitly don’t want your results in ML to be too good, or else there’s nothing to explore. It’s a class about experimental design and analysis, not just achieving the best results.
+
+6
+
+1 more reply
+Stagef6
+OP
+•
+2y ago
+Good callout on the SDCC prerequisite, I had forgotten that. It's definitely selection bias driving it down.
+
+I start in Spring '24, so I don't have a personal reference for any of these. Some of them do seem a bit off based on reviews I've read, but doing this before having any sort of attachment to certain classes is kind of the point. If everyone did their own subjective ranking, you'd likely end up with a few thousand different lists, none of them matching.
+
+I'll probably add easiest/hardest by spec soon. Just taking a break. It took a while to get this much together lol
+
+5
+
+1 more reply
+
+9 more replies
+mycodesmells404error
+•
+2y ago
+There is no possible way IIS is as hard as GIOS or any of the other tier 5 classes. Like not even close, I’d say it’s borderline easy, if not a medium difficulty class.
+
+
+31
+[deleted]
+•
+2y ago
+IIS is the easiest class I’ve taken in the program. Easier than SAD and SDP.
+
+12
+
+2 more replies
+u/jeffpardy_ avatar
+jeffpardy_
+•
+2y ago
+The biggest reason that it's hard is because on the cyber side, all specialization need to take it. So all the policy track needs to take this pretty code heavy class, so it's very difficult for them
+
+6
+
+10 more replies
+idempotentreaction
+•
+2y ago
+As someone who just finished Compilers, the title of Tier 7 is quite apt lol. I took off work for all of Thanksgiving break and didn’t do anything besides work on the final project all week in order to finish (love the class though and it’s definitely worth taking)
+
+
+12
+
+[deleted]
+•
+2y ago
+u/Fanta_Official avatar
+u/Fanta_Official
+•
+Promoted
+
+Wanta Fanta? Come Get It
+Learn More
+coca-cola.com
+Clickable image which will reveal the video player: Wanta Fanta? Come Get It
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+ZildjianRemo
+•
+2y ago
+Funny enough ML4T is commonly believed to be a “easy” class
+
+
+12
+u/Namfoodlenackle avatar
+Namfoodlenackle
+•
+2y ago
+I got a lower grade in ML4T than ML lol
+
+14
+
+5 more replies
+
+[deleted]
+•
+2y ago
+u/awp_throwaway avatar
+awp_throwaway
+•
+2y ago
+Interesting analysis overall. The one additional caveat I'd throw into the mix here is that if you're going for tier 6+ or so stuff, then there's no shame in finishing with a C (provided you can counter-balance with an A elsewhere, can count as a free elective rather than a core, etc.). At least for me personally, if I leave a course smarter than when I entered, that's "mission accomplished" as far as I'm concerned; beyond that, the grade/GPA is just a "bureaucratic formality." (My end goal is terminal MS and continue working in industry as an SWE, so of course caveat to my caveat here is "ymmv"...)
+
+10
+
+2 more replies
+Tvicker
+•
+2y ago
+Made a huge job creating the tables, did not add normal course names making tables unreadable 💪👍
+
+
+8
+u/awp_throwaway avatar
+awp_throwaway
+•
+2y ago
+Most people in the subreddit recognize the acronyms at this point (designated AKA in the tables). For anyone else, there is omscs.rocks to cross-reference accordingly...
+
+There may be potential criticisms of this analysis, its implications, etc., but I'd say this particular one is tenuous at best.
+
+7
+u/Difficult_Review9741 avatar
+Difficult_Review9741
+•
+2y ago
+DC is the most frustrating class I’ve taken in the program, and I’ve taken a bunch of difficult classes. Quite frankly that class is not friendly to your mental health if you’re doing it on top of a full time job.
+
+6
+
+2 more replies
+u/marksimi avatar
+marksimi
+•
+2y ago
+Neat.
+
+Given this is a subjective weighting system applied to data that includes subjective ratings and no adjustment is made for potential selection bias in students (niche courses with higher perceived difficulties like compilers and SDCC could attract more invested/experienced students than more general CS courses like CN and GIOS), this isn’t a surgical list and plenty of these rankings could flex up or down a few slots.
+
+It's generally good practice to publish code or a gist if you're going to use a bespoke weights (inspo from paperswithcode).
+
+You touch upon false precision caused by error: why not output ranges instead of precise ranks to at least account for that?
+
+5
+
+1 more reply
+u/Solid_Brain_3315 avatar
+Solid_Brain_3315
+•
+2y ago
+I thought sim was much harder than what is implied here. Only roughly 30% of my semester received as
+
+4
+
+1 more reply
+guruguru1989
+•
+2y ago
+SAT is considered as harder than GIOS? Might be due to the number of enrollments ?
+
+3
+black_cow_space
+•
+2y ago
+Very nice!
+
+Would be nice to make a spreadsheet of this that autoupdates now and then. Because this will be dynamic in time.
+
+3
+a_bit_of_byte
+•
+2y ago
+Quite a bit to unpack here, but this is an awesome look at combining all this data!
+
+How did you account for students that withdraw? Do you think that could be a reflection of how difficult a course is?
+
+I also wish there was a way to measure some more intangibles. NLP, for example, isn’t a course I would recommend before you’ve taken AI or ML. It’s listed in the easiest tier, but would really be best served by taking some of the hardest courses. Having just taken it, it is a low-stress course, but you can’t approach it haphazardly either.
+
+
+5
+Stagef6
+OP
+•
+2y ago
+NLP is a good example of a course whose ranking is more likely affected by student selection bias. It's a relatively recent addition and the only students who have been able to get in are later in the program and likely have AI, ML, and/or DL under their belts. It's possible it floats down to Tier 2 as semesters go by.
+
+% of W's are taken from Lite. All else equal, the assumption made here is that a course with more W's is harder than a course with less. That said, it's the "grade" that has the lowest weight in this ranking and only weights heavier than student overall ratings. Low A's and B's or high C's, D's, or F's will drive a rank down the list a lot more than high W's.
+
+7
+[deleted]
+•
+2y ago
+KBAI wasn't as hard as it seems. Its just alot of work but the assignments are straight forward.
+
+4
+
+1 more reply
+Stagef6
+OP
+•
+2y ago
+Easiest and Hardest Paths for each Specialization has been added to the post.
+
+2
+Present-Computer7002
+•
+2y ago
+can someone post links and 1 sentence description of these
+
+
+2
+Stagef6
+OP
+•
+2y ago
+Links are a fantastic idea. I've added these to the lists. Thanks for the suggestion!
+
+2
+
+1 more reply
+u/i_heart_cacti avatar
+i_heart_cacti
+•
+2y ago
+I’ve taken (1) Tier 6, (1) Tier 5, (3) Tier 4, (1) Tier 3, and (1) Tier 2. To me it’s just fascinating that you can create these kinds of rankings with OMSCS. In undergrad I have often had no idea what I was getting into until the first exam for each class!
+
+Personally I’ve gotten the most out of my Tier 5+ classes + QC and HCI which were uniquely strong at teaching without necessarily taking up ALL my free time. But the other ones were important because I work full time and hence also want to enjoy life a little bit while earning this degree.
+
+Edit: I could see some sort of exponential weighting biased towards more recent Lite grade distributions being helpful here. The first iterations of these classes were taken by 1.) students who enrolled in OMSCS earlier (and were likely thus self selecting for being really strong at self learning already) and 2.) had stronger curves while they worked out the kinks.
+
+Some of these classes more recent semester grade distributions look very very different.
+
+3
+u/ulenie1 avatar
+ulenie1
+•
+2y ago
+IIS hard lol. Has been the easiest class I have taken so far.
+
+1
